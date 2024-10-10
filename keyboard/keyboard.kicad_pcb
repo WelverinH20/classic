@@ -80,100 +80,73 @@
 		)
 	)
 	(net 0 "")
-	(net 1 "COL1")
-	(net 2 "COL2")
-	(net 3 "COL3")
-	(net 4 "COL4")
-	(net 5 "COL5")
-	(net 6 "COL6")
-	(net 7 "COL7")
-	(net 8 "COL8")
-	(net 9 "COL9")
-	(net 10 "COL10")
-	(net 11 "ROW1")
-	(net 12 "ROW2")
-	(net 13 "ROW3")
-	(net 14 "ROW4")
-	(net 15 "ROW5")
-	(net 16 "ROW6")
-	(net 17 "N$1")
-	(net 18 "N$10")
-	(net 19 "N$11")
-	(net 20 "N$12")
-	(net 21 "N$13")
-	(net 22 "N$14")
-	(net 23 "N$15")
-	(net 24 "N$16")
-	(net 25 "N$17")
-	(net 26 "N$18")
-	(net 27 "N$19")
-	(net 28 "N$2")
-	(net 29 "N$20")
-	(net 30 "N$21")
-	(net 31 "N$22")
-	(net 32 "N$23")
-	(net 33 "N$24")
-	(net 34 "N$25")
-	(net 35 "N$26")
-	(net 36 "N$27")
-	(net 37 "N$28")
-	(net 38 "N$29")
-	(net 39 "N$3")
-	(net 40 "N$30")
-	(net 41 "N$31")
-	(net 42 "N$32")
-	(net 43 "N$33")
-	(net 44 "N$34")
-	(net 45 "N$35")
-	(net 46 "N$36")
-	(net 47 "N$37")
-	(net 48 "N$38")
-	(net 49 "N$39")
-	(net 50 "N$4")
-	(net 51 "N$40")
-	(net 52 "N$41")
-	(net 53 "N$42")
-	(net 54 "N$43")
-	(net 55 "N$44")
-	(net 56 "N$45")
-	(net 57 "N$46")
-	(net 58 "N$47")
-	(net 59 "N$48")
-	(net 60 "N$49")
-	(net 61 "N$5")
-	(net 62 "N$50")
-	(net 63 "N$51")
-	(net 64 "N$52")
-	(net 65 "N$53")
-	(net 66 "N$54")
-	(net 67 "N$55")
-	(net 68 "N$56")
-	(net 69 "N$57")
-	(net 70 "N$58")
-	(net 71 "N$59")
-	(net 72 "N$6")
-	(net 73 "N$60")
-	(net 74 "N$61")
-	(net 75 "N$62")
-	(net 76 "N$63")
-	(net 77 "N$64")
-	(net 78 "N$65")
-	(net 79 "N$66")
-	(net 80 "N$67")
-	(net 81 "N$7")
-	(net 82 "N$8")
-	(net 83 "N$9")
-	(net 84 "ROW7")
-	(net 85 "GND")
-	(net 86 "SW")
-	(net 87 "A_OUT")
-	(net 88 "B_OUT")
-	(net 89 "VCC")
-	(net 90 "DIN")
-	(net 91 "A_OUT_R")
-	(net 92 "B_OUT_R")
-	(net 93 "SW_R")
-	(net 94 "GND_LED")
+	(net 1 "N$1")
+	(net 2 "N$10")
+	(net 3 "N$11")
+	(net 4 "N$12")
+	(net 5 "N$13")
+	(net 6 "N$14")
+	(net 7 "N$15")
+	(net 8 "N$16")
+	(net 9 "N$17")
+	(net 10 "N$18")
+	(net 11 "N$19")
+	(net 12 "N$2")
+	(net 13 "N$20")
+	(net 14 "N$21")
+	(net 15 "N$22")
+	(net 16 "N$23")
+	(net 17 "N$24")
+	(net 18 "N$25")
+	(net 19 "N$26")
+	(net 20 "N$27")
+	(net 21 "N$28")
+	(net 22 "N$29")
+	(net 23 "N$3")
+	(net 24 "N$30")
+	(net 25 "N$31")
+	(net 26 "N$32")
+	(net 27 "N$33")
+	(net 28 "N$34")
+	(net 29 "N$35")
+	(net 30 "N$36")
+	(net 31 "N$37")
+	(net 32 "N$38")
+	(net 33 "N$39")
+	(net 34 "N$4")
+	(net 35 "N$40")
+	(net 36 "N$41")
+	(net 37 "N$42")
+	(net 38 "N$43")
+	(net 39 "N$44")
+	(net 40 "N$45")
+	(net 41 "N$46")
+	(net 42 "N$47")
+	(net 43 "N$48")
+	(net 44 "N$49")
+	(net 45 "N$5")
+	(net 46 "N$50")
+	(net 47 "N$51")
+	(net 48 "N$52")
+	(net 49 "N$53")
+	(net 50 "N$54")
+	(net 51 "N$55")
+	(net 52 "N$56")
+	(net 53 "N$57")
+	(net 54 "N$58")
+	(net 55 "N$59")
+	(net 56 "N$6")
+	(net 57 "N$60")
+	(net 58 "N$61")
+	(net 59 "N$62")
+	(net 60 "N$63")
+	(net 61 "N$64")
+	(net 62 "N$65")
+	(net 63 "N$66")
+	(net 64 "N$67")
+	(net 65 "N$7")
+	(net 66 "N$8")
+	(net 67 "N$9")
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "0353c2ff-4c9e-455e-b02b-ef73405be822")
@@ -477,7 +450,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "7059ef0c-d9de-4102-94d2-0be475e357ee")
 		)
 		(pad "2" thru_hole circle
@@ -486,7 +458,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 82 "N$8")
+			(net 66 "N$8")
 			(uuid "fa70df28-e2a9-46ce-9355-72330a17343c")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -804,7 +776,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "7dc68128-3911-480c-8367-deb7a2477ac6")
 		)
 		(pad "2" thru_hole circle
@@ -813,7 +784,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 20 "N$12")
+			(net 4 "N$12")
 			(uuid "765b8131-2fc8-4921-a56b-dd7641043567")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -1131,7 +1102,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "fd7c39e2-38fc-4fad-b344-05ec8f9b6047")
 		)
 		(pad "2" thru_hole circle
@@ -1140,7 +1110,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 75 "N$62")
+			(net 59 "N$62")
 			(uuid "33b30da2-d964-41ae-8ea9-8a9ac587081e")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -1458,7 +1428,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "COL8")
 			(uuid "f5a91120-7e71-458f-aaf0-14f948812d47")
 		)
 		(pad "2" thru_hole circle
@@ -1467,7 +1436,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 40 "N$30")
+			(net 24 "N$30")
 			(uuid "ea9d9971-28c1-42e9-88b1-2855990e0693")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -1785,7 +1754,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "2129dc52-958e-416d-a6ff-67d42dde96a0")
 		)
 		(pad "2" thru_hole circle
@@ -1794,7 +1762,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 35 "N$26")
+			(net 19 "N$26")
 			(uuid "0494bd0e-ff82-427c-b61c-c357d8f13009")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -2112,7 +2080,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "COL8")
 			(uuid "a29b4d05-ea03-463b-ac85-a6c393f7d4e1")
 		)
 		(pad "2" thru_hole circle
@@ -2121,7 +2088,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 24 "N$16")
+			(net 8 "N$16")
 			(uuid "147cf5bd-59b6-49a6-ac5f-f4e7b35fb796")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -2439,7 +2406,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL6")
 			(uuid "41e446e2-c337-48d7-a139-884edec0ca24")
 		)
 		(pad "2" thru_hole circle
@@ -2448,7 +2414,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 47 "N$37")
+			(net 31 "N$37")
 			(uuid "329b2f97-ea6d-4773-a21d-78895a31f274")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -2766,7 +2732,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "d291fddf-05a4-4350-af0e-65559de8578a")
 		)
 		(pad "2" thru_hole circle
@@ -2775,7 +2740,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 42 "N$32")
+			(net 26 "N$32")
 			(uuid "4a74e494-b358-43ea-b2ab-6278a3933634")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -3093,7 +3058,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "f71bf1d1-a141-4a18-b93d-8f27f39207bf")
 		)
 		(pad "2" thru_hole circle
@@ -3102,7 +3066,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 39 "N$3")
+			(net 23 "N$3")
 			(uuid "eba27608-fb0a-48f7-b64a-900350d6b3d5")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -3420,7 +3384,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "c85fe3c1-6a93-4dc0-8b4b-366a3728d1e1")
 		)
 		(pad "2" thru_hole circle
@@ -3429,7 +3392,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 58 "N$47")
+			(net 42 "N$47")
 			(uuid "305bf686-3c55-42c9-8d7f-a9595bfc2201")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -3747,7 +3710,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "COL8")
 			(uuid "62d18c22-2f4d-4ce2-a732-f7a52f1c081f")
 		)
 		(pad "2" thru_hole circle
@@ -3756,7 +3718,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 73 "N$60")
+			(net 57 "N$60")
 			(uuid "005ada86-c6d6-422f-bce0-4d2b20036a9a")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -4074,7 +4036,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "2b665c31-d8b1-4fad-a2ca-a9af7dd6761b")
 		)
 		(pad "2" thru_hole circle
@@ -4083,7 +4044,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 30 "N$21")
+			(net 14 "N$21")
 			(uuid "c841bbea-e8d5-4ad4-9e52-78110ec36f5b")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -4401,7 +4362,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "ed726afb-75f4-4450-985b-b8d2444abedb")
 		)
 		(pad "2" thru_hole circle
@@ -4410,7 +4370,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 72 "N$6")
+			(net 56 "N$6")
 			(uuid "421f2ea7-bb05-486c-bedf-2f43ff11100d")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -5178,7 +5138,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 91 "A_OUT_R")
 			(uuid "66cb8b80-5f44-4078-9c36-e1b6f0cd003c")
 		)
 		(pad "2" thru_hole circle
@@ -5187,7 +5146,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 92 "B_OUT_R")
 			(uuid "f074c68f-0cdb-4336-ac18-8356c387a02f")
 		)
 		(pad "3" thru_hole circle
@@ -5204,7 +5162,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 94 "GND_LED")
 			(uuid "a673a4e1-1f8e-441d-bf08-e4cf104a6166")
 		)
 		(pad "5" thru_hole circle
@@ -5213,7 +5170,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 93 "SW_R")
 			(uuid "f047502c-a35f-44f9-9b9d-b3643cf33a73")
 		)
 		(pad "6" thru_hole circle
@@ -5222,7 +5178,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 90 "DIN")
 			(uuid "d30e88b6-c1a1-43ad-be2d-423f3bee0692")
 		)
 		(pad "7" thru_hole circle
@@ -5231,7 +5186,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 87 "A_OUT")
 			(uuid "26a5eb06-5cd7-4caa-8cd0-7a4abae9718b")
 		)
 		(pad "8" thru_hole circle
@@ -5240,7 +5194,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 88 "B_OUT")
 			(uuid "7c6bca59-aa91-4056-ab19-595e2e8f2076")
 		)
 		(pad "9" thru_hole circle
@@ -5249,7 +5202,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 86 "SW")
 			(uuid "a3d2a088-e54e-4ce5-9f52-6e0b8940fcd8")
 		)
 		(pad "10" thru_hole circle
@@ -5258,7 +5210,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "093d1c0c-9baa-4139-8523-d83e6b4cd990")
 		)
 		(pad "11" thru_hole circle
@@ -5267,7 +5218,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "823b592e-c407-4c1b-bf94-634999e0b0d5")
 		)
 		(pad "12" thru_hole circle
@@ -5276,7 +5226,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "723d914f-5a20-4360-93bb-0194d18427c0")
 		)
 		(pad "13" thru_hole circle
@@ -5285,7 +5234,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "079fa19b-0939-4afc-a1c0-24af2dee08ad")
 		)
 		(pad "14" thru_hole circle
@@ -5294,7 +5242,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 14 "ROW4")
 			(uuid "56754c66-a17c-42cf-82c0-64d754a6b525")
 		)
 		(pad "15" thru_hole circle
@@ -5303,7 +5250,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 11 "ROW1")
 			(uuid "e5ba3ad7-1368-4e0a-8cfa-a486bd59df15")
 		)
 		(pad "16" thru_hole circle
@@ -5312,7 +5258,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "ROW3")
 			(uuid "0c6c9bae-a7da-41ae-a5fc-6cacd4ae56d3")
 		)
 		(pad "17" thru_hole circle
@@ -5321,7 +5266,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 12 "ROW2")
 			(uuid "11581d5e-c46f-43b6-af5c-3ba5150954e5")
 		)
 		(pad "18" thru_hole circle
@@ -5330,7 +5274,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 16 "ROW6")
 			(uuid "e7b388e2-f11a-4f30-95f1-3ab1ff4e7661")
 		)
 		(pad "19" thru_hole circle
@@ -5339,7 +5282,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 15 "ROW5")
 			(uuid "28a98285-bab6-4583-b469-a2307cee32fc")
 		)
 		(pad "20" thru_hole circle
@@ -5348,7 +5290,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 84 "ROW7")
 			(uuid "4a37bb65-d83d-463d-a74e-467a96334fe7")
 		)
 		(pad "21" thru_hole circle
@@ -5357,7 +5298,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "VCC")
 			(uuid "a2d35463-0938-4d60-b4be-b09c471d5119")
 		)
 		(pad "22" thru_hole circle
@@ -5374,7 +5314,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "GND")
 			(uuid "5a6dbac6-783e-4637-b91a-893d5323cb6a")
 		)
 		(pad "24" thru_hole circle
@@ -5383,7 +5322,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "0c7681d5-3639-4526-abd0-3851591c0675")
 		)
 		(pad "25" thru_hole circle
@@ -5392,7 +5330,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "df19f67d-ab8b-4c0e-8a1e-d26ba3c77b77")
 		)
 		(pad "26" thru_hole circle
@@ -5401,7 +5338,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "4b9aec90-2253-44e4-95af-7d3d17122b81")
 		)
 		(pad "27" thru_hole circle
@@ -5410,7 +5346,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL6")
 			(uuid "274e0d25-b37f-4129-8ff7-eed01e8dc9b2")
 		)
 		(pad "28" thru_hole circle
@@ -5419,7 +5354,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "COL7")
 			(uuid "0abb2c9c-6121-442f-baf8-d058d6de79b3")
 		)
 		(pad "29" thru_hole circle
@@ -5428,7 +5362,6 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "COL8")
 			(uuid "6cee9e97-0194-4b3f-beaf-f79503117b21")
 		)
 		(model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl"
@@ -5746,7 +5679,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "b63d20bd-96ef-4bcd-a1d1-96e245759567")
 		)
 		(pad "2" thru_hole circle
@@ -5755,7 +5687,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 19 "N$11")
+			(net 3 "N$11")
 			(uuid "25183d3e-2632-4d0e-9115-c2c4bf5638db")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -5853,7 +5785,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 94 "GND_LED")
 			(thermal_bridge_angle 45)
 			(uuid "b0bf69cb-084d-4ebe-8709-54061ef1092f")
 		)
@@ -5862,7 +5793,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 90 "DIN")
 			(thermal_bridge_angle 45)
 			(uuid "d2b31c0f-0e59-474c-8f65-8e6cb52e04b5")
 		)
@@ -5871,7 +5801,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 89 "VCC")
 			(thermal_bridge_angle 45)
 			(uuid "42a4cfc7-08c6-4d38-96e6-9ee6da224842")
 		)
@@ -6179,7 +6108,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "COL8")
 			(uuid "cd9e80f0-88f0-44a5-bef4-3c25f7d54e2a")
 		)
 		(pad "2" thru_hole circle
@@ -6188,7 +6116,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 38 "N$29")
+			(net 22 "N$29")
 			(uuid "00e00bfb-5ec6-47fe-8eba-311d0f73ca0d")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -6506,7 +6434,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "33ee2eba-cab9-40f0-b5d2-d9471553614e")
 		)
 		(pad "2" thru_hole circle
@@ -6515,7 +6442,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 79 "N$66")
+			(net 63 "N$66")
 			(uuid "909b7e88-317f-4255-ad12-622763afba75")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -6833,7 +6760,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "13ed89a5-48d0-4e18-a044-3f9649981651")
 		)
 		(pad "2" thru_hole circle
@@ -6842,7 +6768,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 66 "N$54")
+			(net 50 "N$54")
 			(uuid "eeeda7ca-6b8c-40e1-8c0c-87e85b8c6b7e")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -7160,7 +7086,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "e6f9a061-ab81-4ec2-8c69-963ebf951b6f")
 		)
 		(pad "2" thru_hole circle
@@ -7169,7 +7094,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 57 "N$46")
+			(net 41 "N$46")
 			(uuid "bf120adc-328e-4b46-874b-365ccec7a15c")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -7487,7 +7412,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "1ab53dff-019e-4fef-9cfa-3f83c64920fb")
 		)
 		(pad "2" thru_hole circle
@@ -7496,7 +7420,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 36 "N$27")
+			(net 20 "N$27")
 			(uuid "45ac7c02-f2c8-406b-ab50-c85bcaf1eac7")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -7814,7 +7738,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "35faf6c6-c5f1-4fa2-bdde-80283f1b649b")
 		)
 		(pad "2" thru_hole circle
@@ -7823,7 +7746,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 46 "N$36")
+			(net 30 "N$36")
 			(uuid "e9ad641c-7a68-479f-b4c7-00e83bcf1329")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -7910,7 +7833,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 94 "GND_LED")
 			(thermal_bridge_angle 45)
 			(uuid "4dbe955e-fa32-4666-aea2-14ca9ba03e43")
 		)
@@ -7919,7 +7841,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 90 "DIN")
 			(thermal_bridge_angle 45)
 			(uuid "7d619600-f202-4e5d-b08d-e5f108261c14")
 		)
@@ -7928,7 +7849,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 89 "VCC")
 			(thermal_bridge_angle 45)
 			(uuid "52223e06-95de-4484-8df0-072b25cf08db")
 		)
@@ -8403,7 +8323,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "VCC")
 			(uuid "331d3b1e-9992-4388-be55-24ce51ee3256")
 		)
 		(pad "2" thru_hole circle
@@ -8412,7 +8331,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 92 "B_OUT_R")
 			(uuid "6578b1b7-c122-4336-b92c-3fd73ddf2cf1")
 		)
 		(model "Resistors_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.wrl"
@@ -8730,7 +8648,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "cd335aa0-fb40-430d-9ee2-be38b11892dd")
 		)
 		(pad "2" thru_hole circle
@@ -8739,7 +8656,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 52 "N$41")
+			(net 36 "N$41")
 			(uuid "b1549e93-bb43-468e-aeee-48bcf130aa75")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -9057,7 +8974,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL6")
 			(uuid "83507aa2-5357-4098-8bf1-d2c7e556e5ea")
 		)
 		(pad "2" thru_hole circle
@@ -9066,7 +8982,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "N$13")
+			(net 5 "N$13")
 			(uuid "59495258-312e-475d-b423-fa280f4c1185")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -9384,7 +9300,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL6")
 			(uuid "5ea06938-83b6-4d97-96aa-b19816bbe581")
 		)
 		(pad "2" thru_hole circle
@@ -9393,7 +9308,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 31 "N$22")
+			(net 15 "N$22")
 			(uuid "3c37ff7e-1656-4111-8571-13c74631240f")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -9711,7 +9626,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "8080359d-1354-4665-a4cd-852b43c450da")
 		)
 		(pad "2" thru_hole circle
@@ -9720,7 +9634,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 49 "N$39")
+			(net 33 "N$39")
 			(uuid "e95b22d9-185e-4e01-8cc7-a65a8b63e813")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -10038,7 +9952,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "72bf3a42-9c16-4bf1-9efc-e36ae54860e1")
 		)
 		(pad "2" thru_hole circle
@@ -10047,7 +9960,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 68 "N$56")
+			(net 52 "N$56")
 			(uuid "8db4dcc3-4c44-4855-89b3-5c1bdbefa243")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -10365,7 +10278,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "103003c7-5b12-4373-a130-98b261d6b62f")
 		)
 		(pad "2" thru_hole circle
@@ -10374,7 +10286,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 62 "N$50")
+			(net 46 "N$50")
 			(uuid "5a14fae7-379e-4094-a968-60ca18454e6a")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -10692,7 +10604,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL6")
 			(uuid "b826ee6c-7578-4f41-9bc6-538ef4ec46a9")
 		)
 		(pad "2" thru_hole circle
@@ -10701,7 +10612,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 37 "N$28")
+			(net 21 "N$28")
 			(uuid "8d11adf0-0b56-457a-93be-9f6ab33c4304")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -11019,7 +10930,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "91c793c4-972a-42fb-bd6c-726d1a8a9b2d")
 		)
 		(pad "2" thru_hole circle
@@ -11028,7 +10938,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 18 "N$10")
+			(net 2 "N$10")
 			(uuid "5c2e46d9-b6fe-43be-992c-4b3e3aa78bb1")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -11346,7 +11256,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "c17cdbf0-dd00-426d-a868-8d166b198762")
 		)
 		(pad "2" thru_hole circle
@@ -11355,7 +11264,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 69 "N$57")
+			(net 53 "N$57")
 			(uuid "39844c34-d7f8-4c28-a843-cbe53992e022")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -11728,7 +11637,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 91 "A_OUT_R")
 			(uuid "6f58c505-9184-45ff-98d7-855375540de5")
 		)
 		(pad "B" thru_hole circle
@@ -11737,7 +11645,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 92 "B_OUT_R")
 			(uuid "c539b84c-74c5-4123-b96e-c66457b053d6")
 		)
 		(pad "C" thru_hole circle
@@ -11746,7 +11653,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "GND")
 			(uuid "bfdad562-9ade-4518-8361-aa44072b5d9c")
 		)
 		(pad "S1" thru_hole circle
@@ -11755,7 +11661,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "GND")
 			(uuid "d97cd033-0dc4-4025-9887-7dbd7fbe4571")
 		)
 		(pad "S2" thru_hole circle
@@ -11764,7 +11669,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 93 "SW_R")
 			(uuid "6118c198-9516-4d33-be51-5184dfe6b900")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
@@ -12082,7 +11986,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "f053c0cb-f95a-4796-a3ae-e970bbd4090a")
 		)
 		(pad "2" thru_hole circle
@@ -12091,7 +11994,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 45 "N$35")
+			(net 29 "N$35")
 			(uuid "7896172c-7f9f-4b1f-95d1-0da777dcc7e3")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -12189,7 +12092,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 94 "GND_LED")
 			(thermal_bridge_angle 45)
 			(uuid "00fddcba-07ab-44ae-9342-7f4fd4b230c7")
 		)
@@ -12198,7 +12100,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 90 "DIN")
 			(thermal_bridge_angle 45)
 			(uuid "bf7b5223-aa60-45b9-ab15-c6b7f90a86a8")
 		)
@@ -12207,7 +12108,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 89 "VCC")
 			(thermal_bridge_angle 45)
 			(uuid "e353866b-ca49-49e9-88bc-1b8f165da208")
 		)
@@ -12515,7 +12415,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "9ae7cfb1-04ea-4996-ad4d-3a73a0003245")
 		)
 		(pad "2" thru_hole circle
@@ -12524,7 +12423,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 44 "N$34")
+			(net 28 "N$34")
 			(uuid "8ce941d4-ef99-49c1-a1d7-8aedacc59adc")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -12842,7 +12741,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "COL7")
 			(uuid "21ccfd1e-157e-47d3-836b-10fbb890c1c5")
 		)
 		(pad "2" thru_hole circle
@@ -12851,7 +12749,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 64 "N$52")
+			(net 48 "N$52")
 			(uuid "a843e814-cb11-4ac8-94f3-565ad943f388")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -13169,7 +13067,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "21133f42-572a-4bf0-8651-78f285c34545")
 		)
 		(pad "2" thru_hole circle
@@ -13178,7 +13075,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 33 "N$24")
+			(net 17 "N$24")
 			(uuid "65944073-69fb-4311-bd6c-4820ea4234d5")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -13663,7 +13560,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "VCC")
 			(uuid "5d73dff6-4aa3-40b7-a901-ee53babea2f6")
 		)
 		(pad "2" thru_hole circle
@@ -13672,7 +13568,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 87 "A_OUT")
 			(uuid "33099b94-9d67-4f90-bb33-378fd232e721")
 		)
 		(model "Resistors_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.wrl"
@@ -13770,7 +13665,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 94 "GND_LED")
 			(thermal_bridge_angle 45)
 			(uuid "d5149fa5-5b19-4f53-8977-174a1362e51b")
 		)
@@ -13779,7 +13673,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 90 "DIN")
 			(thermal_bridge_angle 45)
 			(uuid "6fac8aed-59a8-4d7d-8440-60ab0c1ae380")
 		)
@@ -13788,7 +13681,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 89 "VCC")
 			(thermal_bridge_angle 45)
 			(uuid "9356a827-0be0-4adf-ad55-775f8976af5e")
 		)
@@ -14096,7 +13988,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "77a2d152-a767-40f5-af92-ad5f749c66b1")
 		)
 		(pad "2" thru_hole circle
@@ -14105,7 +13996,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 34 "N$25")
+			(net 18 "N$25")
 			(uuid "e13f2719-d651-4f22-824b-4f8bad6df2af")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -14590,7 +14481,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "VCC")
 			(uuid "50bf22da-7f88-4010-809f-555e6f1e8985")
 		)
 		(pad "2" thru_hole circle
@@ -14599,7 +14489,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 88 "B_OUT")
 			(uuid "9468cc3f-72f9-485b-9276-2ef9f87a9568")
 		)
 		(model "Resistors_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.wrl"
@@ -14917,7 +14806,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "c9a6a5e4-56b1-416e-8ead-652a08a6c1d1")
 		)
 		(pad "2" thru_hole circle
@@ -14926,7 +14814,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 59 "N$48")
+			(net 43 "N$48")
 			(uuid "f7b6501b-b47d-4fce-9b5d-f5b2a7b256d5")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -15244,7 +15132,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "aa457f49-e352-4006-b08b-1fe42a8c855f")
 		)
 		(pad "2" thru_hole circle
@@ -15253,7 +15140,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 74 "N$61")
+			(net 58 "N$61")
 			(uuid "127ac51f-b4e7-4151-a075-19b18dd964d8")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -15571,7 +15458,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "df8d5990-0efa-4f5e-b3c0-eae387b0c73c")
 		)
 		(pad "2" thru_hole circle
@@ -15580,7 +15466,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 80 "N$67")
+			(net 64 "N$67")
 			(uuid "25c12513-71c6-4a8d-a6fd-cb0ad65ee1f2")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -15898,7 +15784,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "424f3acd-6e87-44e3-ad5a-b549c0946708")
 		)
 		(pad "2" thru_hole circle
@@ -15907,7 +15792,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 51 "N$40")
+			(net 35 "N$40")
 			(uuid "34efa02f-f5fe-4f5a-9ab4-f2406a02b3fd")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -16225,7 +16110,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "30161dab-c44f-4683-b071-dc02432f6168")
 		)
 		(pad "2" thru_hole circle
@@ -16234,7 +16118,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 29 "N$20")
+			(net 13 "N$20")
 			(uuid "96967136-c6bd-44cc-a010-33ff5ede0643")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -16636,7 +16520,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "20611bf5-b3a5-492e-b508-377b81b61f6f")
 		)
 		(pad "2" thru_hole circle
@@ -16645,7 +16528,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 67 "N$55")
+			(net 51 "N$55")
 			(uuid "777ede02-cfae-4c3b-8db1-e8e386e3cc2a")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -16963,7 +16846,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "9a2d1bd3-9162-4d87-952e-bf53ff7665e8")
 		)
 		(pad "2" thru_hole circle
@@ -16972,7 +16854,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 27 "N$19")
+			(net 11 "N$19")
 			(uuid "6e71aa44-9484-41fd-9da2-bbb16d8eddd4")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -17290,7 +17172,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "cd03147e-5ad5-4942-bf16-4e5a22adbf42")
 		)
 		(pad "2" thru_hole circle
@@ -17299,7 +17180,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 26 "N$18")
+			(net 10 "N$18")
 			(uuid "1afb06cf-100d-4f55-855d-b5c4b0b85696")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -17617,7 +17498,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL3")
 			(uuid "aad1c3c4-0c17-40cf-9ba2-abb5392ac767")
 		)
 		(pad "2" thru_hole circle
@@ -17626,7 +17506,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 50 "N$4")
+			(net 34 "N$4")
 			(uuid "8d505d1b-202b-4a6e-a08f-e3425a7288b1")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -17944,7 +17824,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL6")
 			(uuid "c48ab436-27b3-4d66-a774-a4221d7431f5")
 		)
 		(pad "2" thru_hole circle
@@ -17953,7 +17832,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 63 "N$51")
+			(net 47 "N$51")
 			(uuid "71ea7751-7f54-4d8a-85ad-828e6f686dd4")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -18271,7 +18150,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "37acb062-24bb-4888-95d6-137074647fe0")
 		)
 		(pad "2" thru_hole circle
@@ -18280,7 +18158,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 83 "N$9")
+			(net 67 "N$9")
 			(uuid "22b19f07-1069-4e8c-9b04-5320eb501a1d")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -18598,7 +18476,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "COL8")
 			(uuid "2df58217-868e-4ff6-8fe9-6f28aa752d35")
 		)
 		(pad "2" thru_hole circle
@@ -18607,7 +18484,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 65 "N$53")
+			(net 49 "N$53")
 			(uuid "dec5e5ab-f71a-4323-944a-1fa0880597fd")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -18925,7 +18802,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "COL7")
 			(uuid "71ba65b5-c22a-4085-8bcd-cf5a73f59a91")
 		)
 		(pad "2" thru_hole circle
@@ -18934,7 +18810,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 23 "N$15")
+			(net 7 "N$15")
 			(uuid "017fbdd5-02ba-4ae7-ad87-e37dd4678e0a")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -19252,7 +19128,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "947eb7b2-47d8-43ff-9c34-2ada224f48d5")
 		)
 		(pad "2" thru_hole circle
@@ -19261,7 +19136,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 25 "N$17")
+			(net 9 "N$17")
 			(uuid "49ff9a21-5052-492d-84c8-d701de71bddd")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -19746,7 +19621,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "VCC")
 			(uuid "b62f76a5-6eb5-42eb-b3a1-f5faba043705")
 		)
 		(pad "2" thru_hole circle
@@ -19755,7 +19629,6 @@
 			(drill 0.9906)
 			(layers "*.Cu" "*.SilkS" "*.Mask")
 			(remove_unused_layers no)
-			(net 91 "A_OUT_R")
 			(uuid "1b9699fc-3b72-41f5-a3a2-9795b0afde03")
 		)
 		(model "Resistors_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.wrl"
@@ -20157,7 +20030,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "649d42cf-00d5-44fd-b8ed-73b8d8a0c00a")
 		)
 		(pad "2" thru_hole circle
@@ -20166,7 +20038,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 61 "N$5")
+			(net 45 "N$5")
 			(uuid "9f299343-9622-4188-b85d-64985189328a")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -20484,7 +20356,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "COL2")
 			(uuid "ac80c7ad-695e-4583-b132-a9551b7c9b70")
 		)
 		(pad "2" thru_hole circle
@@ -20493,7 +20364,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 43 "N$33")
+			(net 27 "N$33")
 			(uuid "9cbef5ab-ef14-4c4e-879c-24f89463eed1")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -20811,7 +20682,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "4789f7e4-cb9b-4ef7-a2e6-190565685fc5")
 		)
 		(pad "2" thru_hole circle
@@ -20820,7 +20690,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 41 "N$31")
+			(net 25 "N$31")
 			(uuid "3aac85bc-99a4-47b9-b197-b951376baf72")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -21222,7 +21092,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL5")
 			(uuid "a118566b-3756-48f2-9b7b-f1a6701711ea")
 		)
 		(pad "2" thru_hole circle
@@ -21231,7 +21100,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 53 "N$42")
+			(net 37 "N$42")
 			(uuid "9e6e8e0b-0b1f-48b7-9e41-97b62f0f0785")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -21549,7 +21418,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "0c3a2597-277a-492a-8eb9-47d19857fca1")
 		)
 		(pad "2" thru_hole circle
@@ -21558,7 +21426,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 54 "N$43")
+			(net 38 "N$43")
 			(uuid "18bb68d6-df72-4890-b38d-dba65d63a1f4")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -21876,7 +21744,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "COL7")
 			(uuid "47534b90-c289-4136-8d6a-21f9333c1ba5")
 		)
 		(pad "2" thru_hole circle
@@ -21885,7 +21752,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 17 "N$1")
+			(net 1 "N$1")
 			(uuid "60be59b2-8ade-4055-976f-6a82a8adba34")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -22203,7 +22070,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "COL7")
 			(uuid "7fc47917-42e5-45e8-9d60-547a615741d1")
 		)
 		(pad "2" thru_hole circle
@@ -22212,7 +22078,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 76 "N$63")
+			(net 60 "N$63")
 			(uuid "17d1d43d-0046-4783-b4c5-597458e1c5a3")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -22530,7 +22396,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "9bdb635b-a0c9-4032-974e-3786b7f08222")
 		)
 		(pad "2" thru_hole circle
@@ -22539,7 +22404,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 32 "N$23")
+			(net 16 "N$23")
 			(uuid "c1abd70b-027e-438a-afea-d7bf8ddfe5f4")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -22857,7 +22722,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "83255a8d-8a7a-4b6d-ac12-33bdc9a591a1")
 		)
 		(pad "2" thru_hole circle
@@ -22866,7 +22730,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 70 "N$58")
+			(net 54 "N$58")
 			(uuid "afb75753-f6a5-4720-a579-85fecb5e1c51")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -23184,7 +23048,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL6")
 			(uuid "86927d46-b611-4bef-9186-c86360b32426")
 		)
 		(pad "2" thru_hole circle
@@ -23193,7 +23056,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 81 "N$7")
+			(net 65 "N$7")
 			(uuid "e5feb266-cae8-4435-870d-863fd3f4bb94")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -23511,7 +23374,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "d40d4f0f-62f5-44bb-a457-0894d5fb8912")
 		)
 		(pad "2" thru_hole circle
@@ -23520,7 +23382,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 55 "N$44")
+			(net 39 "N$44")
 			(uuid "4a0c75c0-aea0-41c2-8775-53717b4cfa4b")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -23838,7 +23700,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 9 "COL9")
 			(uuid "6ddbbb30-d05c-481f-9e39-5a3bd7a1939d")
 		)
 		(pad "2" thru_hole circle
@@ -23847,7 +23708,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 78 "N$65")
+			(net 62 "N$65")
 			(uuid "be1578e6-652e-4823-aa2b-a553749f8f5a")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -24165,7 +24026,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL4")
 			(uuid "fe3add52-9afc-4578-bac9-0c610c4e36bb")
 		)
 		(pad "2" thru_hole circle
@@ -24174,7 +24034,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 60 "N$49")
+			(net 44 "N$49")
 			(uuid "6dd96670-57c0-4142-8796-79b1ba253ec7")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -24492,7 +24352,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "COL7")
 			(uuid "cb9b4565-0cf8-42f4-9752-395b4d23e5b4")
 		)
 		(pad "2" thru_hole circle
@@ -24501,7 +24360,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "N$14")
+			(net 6 "N$14")
 			(uuid "be0e8127-6713-41ab-be64-3c3346b9d741")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -24819,7 +24678,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "4c0b6fa6-8ab4-4475-938d-7b85447a5417")
 		)
 		(pad "2" thru_hole circle
@@ -24828,7 +24686,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 28 "N$2")
+			(net 12 "N$2")
 			(uuid "324cb26f-141e-41ea-a6e3-331d976a26fd")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -25201,7 +25059,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 87 "A_OUT")
 			(uuid "0be0b009-6cbe-4506-ba13-290eeaf7a37a")
 		)
 		(pad "B" thru_hole circle
@@ -25210,7 +25067,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 88 "B_OUT")
 			(uuid "1957c6dd-e321-4c32-8d20-e35faf258bdf")
 		)
 		(pad "C" thru_hole circle
@@ -25219,7 +25075,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "GND")
 			(uuid "57206c84-a746-46df-a108-4c621866ee60")
 		)
 		(pad "S1" thru_hole circle
@@ -25228,7 +25083,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "GND")
 			(uuid "c72244c2-78b6-488e-953f-65ea9d933f60")
 		)
 		(pad "S2" thru_hole circle
@@ -25237,7 +25091,6 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 86 "SW")
 			(uuid "b3852038-24be-4da2-870a-aa8e33a71d82")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
@@ -25335,7 +25188,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 94 "GND_LED")
 			(thermal_bridge_angle 45)
 			(uuid "08b52c73-771c-49b6-8ff0-7385fc17fe17")
 		)
@@ -25344,7 +25196,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 90 "DIN")
 			(thermal_bridge_angle 45)
 			(uuid "ddb4d3f5-2571-4162-a22b-bb344efa1a00")
 		)
@@ -25353,7 +25204,6 @@
 			(size 2.286 0.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 89 "VCC")
 			(thermal_bridge_angle 45)
 			(uuid "068c3848-06c2-4d6a-ab99-3a6ccd3dff48")
 		)
@@ -25661,7 +25511,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "COL7")
 			(uuid "d085c713-edb9-422e-ba2a-1c76a6ef42a3")
 		)
 		(pad "2" thru_hole circle
@@ -25670,7 +25519,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 71 "N$59")
+			(net 55 "N$59")
 			(uuid "01523b88-9e95-4d74-80b4-588ca7fc5eae")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -25988,7 +25837,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "COL1")
 			(uuid "4b24b1d1-3f7c-406e-9e19-8c7d76217970")
 		)
 		(pad "2" thru_hole circle
@@ -25997,7 +25845,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 48 "N$38")
+			(net 32 "N$38")
 			(uuid "4d0709c8-5f19-47b2-8712-51e73df75d27")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -26315,7 +26163,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "COL8")
 			(uuid "959716dd-02bf-45d7-ab08-1808cb43e640")
 		)
 		(pad "2" thru_hole circle
@@ -26324,7 +26171,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 77 "N$64")
+			(net 61 "N$64")
 			(uuid "8a548ee4-f47d-4193-8dbe-6ecec21c6d55")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -26642,7 +26489,6 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL10")
 			(uuid "292db9dc-bc6f-48db-80a9-01972554a078")
 		)
 		(pad "2" thru_hole circle
@@ -26651,7 +26497,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 56 "N$45")
+			(net 40 "N$45")
 			(uuid "2c4a570b-b3e9-4d47-8c9d-533ae5d6c5db")
 		)
 		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
@@ -27004,7 +26850,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "4b64788d-8b6c-4ecc-936d-b18a6bb03211")
 		)
 		(pad "2" smd roundrect
@@ -27012,7 +26857,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 79 "N$66")
+			(net 63 "N$66")
 			(uuid "09dbc428-d771-4044-a4af-e51a653df68c")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -27281,7 +27126,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "9255be86-0128-4d1b-aae1-8b72fbd5d4b4")
 		)
 		(pad "2" smd roundrect
@@ -27289,7 +27133,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 32 "N$23")
+			(net 16 "N$23")
 			(uuid "d2415ce7-521d-4fab-b28d-50d3fccdb2fb")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -27558,7 +27402,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "d92e4c6a-0d77-4dd1-9b15-1e766f5ec644")
 		)
 		(pad "2" smd roundrect
@@ -27566,7 +27409,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 42 "N$32")
+			(net 26 "N$32")
 			(uuid "1918d6fe-ba0d-4a16-82fb-fa42c731a8c0")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -27835,7 +27678,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "c515d66c-d043-41ea-8c70-65f20f99c2e8")
 		)
 		(pad "2" smd roundrect
@@ -27843,7 +27685,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 22 "N$14")
+			(net 6 "N$14")
 			(uuid "e6f4555d-289a-486a-bf77-db32c7a8a6f6")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -28112,7 +27954,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "4507f994-fe57-4e02-bb45-6a6f3c9f8bb5")
 		)
 		(pad "2" smd roundrect
@@ -28120,7 +27961,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 78 "N$65")
+			(net 62 "N$65")
 			(uuid "0255f400-6b5d-447e-8275-4322e890b922")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -28389,7 +28230,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "ab3f2214-df20-4a86-aa76-d2696779a996")
 		)
 		(pad "2" smd roundrect
@@ -28397,7 +28237,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 61 "N$5")
+			(net 45 "N$5")
 			(uuid "80a5b2c2-839d-442a-b43d-7a97d1a0a87e")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -28666,7 +28506,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 84 "ROW7")
 			(uuid "c266e624-3ba5-4d44-96ee-73759a30438f")
 		)
 		(pad "2" smd roundrect
@@ -28674,7 +28513,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 49 "N$39")
+			(net 33 "N$39")
 			(uuid "c5b962ac-8071-442a-835a-2138a3b38c64")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -28943,7 +28782,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "80beede3-4ff1-4795-8db1-63f84e2f388b")
 		)
 		(pad "2" smd roundrect
@@ -28951,7 +28789,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 57 "N$46")
+			(net 41 "N$46")
 			(uuid "2e8edb94-c8b8-405b-a3c5-557d350991e0")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -29220,7 +29058,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "9cdadebf-b6f2-4646-8680-9d12b136ce45")
 		)
 		(pad "2" smd roundrect
@@ -29228,7 +29065,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 30 "N$21")
+			(net 14 "N$21")
 			(uuid "e39a1827-f64f-4cce-8efd-922b9e5894d4")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -29497,7 +29334,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "c61ee698-478d-4281-8736-b69b207c922b")
 		)
 		(pad "2" smd roundrect
@@ -29505,7 +29341,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 35 "N$26")
+			(net 19 "N$26")
 			(uuid "467aae8c-132a-42e2-906c-a7ee508ae224")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -29774,7 +29610,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "5a29c80b-0ae0-4f8f-9c8e-8e0c9d8a98de")
 		)
 		(pad "2" smd roundrect
@@ -29782,7 +29617,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 33 "N$24")
+			(net 17 "N$24")
 			(uuid "f92f9304-6ec7-4f90-9be4-78462946a331")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -30051,7 +29886,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "d170b96e-e07a-4540-8d5c-69685d46a896")
 		)
 		(pad "2" smd roundrect
@@ -30059,7 +29893,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 65 "N$53")
+			(net 49 "N$53")
 			(uuid "9ce1ace0-f5dc-49ff-a9ec-532459b1d33e")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -30328,7 +30162,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "27e46a55-f072-4c61-b39b-dc25012674a8")
 		)
 		(pad "2" smd roundrect
@@ -30336,7 +30169,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 18 "N$10")
+			(net 2 "N$10")
 			(uuid "fb54c839-d3b1-4d0d-82a1-74d7af76e050")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -30605,7 +30438,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "ddabdea7-cd01-41e8-9778-d432cb02845f")
 		)
 		(pad "2" smd roundrect
@@ -30613,7 +30445,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 73 "N$60")
+			(net 57 "N$60")
 			(uuid "f1357bae-d6a5-46c1-bc7b-a4a3cea1c673")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -30882,7 +30714,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "0111f238-5486-462f-ad8a-2d5030f0f092")
 		)
 		(pad "2" smd roundrect
@@ -30890,7 +30721,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 67 "N$55")
+			(net 51 "N$55")
 			(uuid "68fb3c08-75e1-42e7-aaa2-76135d81ed8b")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -31159,7 +30990,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "281ca473-edc0-4659-b031-6b9e683ea91e")
 		)
 		(pad "2" smd roundrect
@@ -31167,7 +30997,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 45 "N$35")
+			(net 29 "N$35")
 			(uuid "1a2e565b-3575-405d-9480-1ad6bd2a13bb")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -31436,7 +31266,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "6c74cff7-afbd-49df-9550-fd38ca35463e")
 		)
 		(pad "2" smd roundrect
@@ -31444,7 +31273,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 77 "N$64")
+			(net 61 "N$64")
 			(uuid "f1445166-e99a-4861-a19e-1cd2203e6021")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -31713,7 +31542,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "ce272ad5-540a-454b-903d-cc7eb06c834a")
 		)
 		(pad "2" smd roundrect
@@ -31721,7 +31549,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 46 "N$36")
+			(net 30 "N$36")
 			(uuid "463c0f50-ea37-495d-bfd9-d85144b05710")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -31990,7 +31818,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "58b3c361-9c4c-43e6-8430-aa507b149713")
 		)
 		(pad "2" smd roundrect
@@ -31998,7 +31825,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 68 "N$56")
+			(net 52 "N$56")
 			(uuid "c91146f4-85e1-4d8d-b1ab-0fc3811bf379")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -32267,7 +32094,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "51736494-ae04-40c1-8a38-ae921f18ff3e")
 		)
 		(pad "2" smd roundrect
@@ -32275,7 +32101,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 66 "N$54")
+			(net 50 "N$54")
 			(uuid "cc36b3f9-1cbc-4632-8ffb-0e8ad6d34f5a")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -32544,7 +32370,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "7b8fc065-858a-4e43-8f59-3a76c6043cae")
 		)
 		(pad "2" smd roundrect
@@ -32552,7 +32377,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 58 "N$47")
+			(net 42 "N$47")
 			(uuid "e369860d-daeb-463c-8187-7c3e8efaf407")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -32821,7 +32646,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "53298f47-bb90-4e81-9135-acb910f92b56")
 		)
 		(pad "2" smd roundrect
@@ -32829,7 +32653,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 70 "N$58")
+			(net 54 "N$58")
 			(uuid "e4dd8025-075b-4d51-9f0c-7795f77b1db0")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -33098,7 +32922,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "af17f697-9e5d-4406-9fbf-17b2d9e5e667")
 		)
 		(pad "2" smd roundrect
@@ -33106,7 +32929,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 47 "N$37")
+			(net 31 "N$37")
 			(uuid "a6abb47a-fbbe-43d5-b466-dec8084d401d")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -33375,7 +33198,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "35c05ff5-6314-4285-8e3e-86ee7295741c")
 		)
 		(pad "2" smd roundrect
@@ -33383,7 +33205,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 62 "N$50")
+			(net 46 "N$50")
 			(uuid "bfc7c21d-5fa8-4aed-ae3c-7f737020371a")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -33652,7 +33474,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "d4f3e19e-f545-4ff5-9ca7-ac155b26e338")
 		)
 		(pad "2" smd roundrect
@@ -33660,7 +33481,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 38 "N$29")
+			(net 22 "N$29")
 			(uuid "20204983-9711-456a-aa16-be31a864d7fd")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -33929,7 +33750,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 84 "ROW7")
 			(uuid "fa88e7c1-8b41-42f4-ae5d-ed4fb52a2f1f")
 		)
 		(pad "2" smd roundrect
@@ -33937,7 +33757,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 48 "N$38")
+			(net 32 "N$38")
 			(uuid "b6b70b42-10be-435a-86d2-60ea4872d3de")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -34206,7 +34026,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "82d27217-70cf-406b-8253-a5d13cbf75f3")
 		)
 		(pad "2" smd roundrect
@@ -34214,7 +34033,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 19 "N$11")
+			(net 3 "N$11")
 			(uuid "91399b34-bff8-402e-a799-0d10b3c28c36")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -34483,7 +34302,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 84 "ROW7")
 			(uuid "49244fe7-fe08-4e30-9793-e1e53ac769d9")
 		)
 		(pad "2" smd roundrect
@@ -34491,7 +34309,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 69 "N$57")
+			(net 53 "N$57")
 			(uuid "1b416438-48d3-4143-a6e4-43a97100696f")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -34760,7 +34578,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "69cadd28-e8f6-4af5-a580-f273346369c6")
 		)
 		(pad "2" smd roundrect
@@ -34768,7 +34585,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 72 "N$6")
+			(net 56 "N$6")
 			(uuid "f396fbae-609f-47c0-8793-cb87f82b0771")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -35037,7 +34854,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "0a206c63-4f09-4f5f-9192-741347b9435f")
 		)
 		(pad "2" smd roundrect
@@ -35045,7 +34861,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 17 "N$1")
+			(net 1 "N$1")
 			(uuid "1d308866-3b0c-42fd-a83d-6d556d87e985")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -35314,7 +35130,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "cab7c9c8-50fa-4490-a698-d1f476ecb9ed")
 		)
 		(pad "2" smd roundrect
@@ -35322,7 +35137,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 74 "N$61")
+			(net 58 "N$61")
 			(uuid "ea2c454f-2ea2-4a30-9eb5-dd546fffc714")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -35591,7 +35406,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "fe8fa975-06d2-4c5d-ae63-a35b37e6cf29")
 		)
 		(pad "2" smd roundrect
@@ -35599,7 +35413,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 55 "N$44")
+			(net 39 "N$44")
 			(uuid "b0c90d2e-5d40-448e-9710-61236bb34461")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -35868,7 +35682,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "230046e0-ea47-4443-acc2-fff55b91ebe0")
 		)
 		(pad "2" smd roundrect
@@ -35876,7 +35689,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 60 "N$49")
+			(net 44 "N$49")
 			(uuid "f94658c1-9140-4b86-9118-9bd22986c141")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -36145,7 +35958,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "a3205d64-39b5-44a7-bcf8-9a225a7e1958")
 		)
 		(pad "2" smd roundrect
@@ -36153,7 +35965,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 83 "N$9")
+			(net 67 "N$9")
 			(uuid "bec6bf62-fb3a-4f0f-84c6-2adaee572e66")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -36422,7 +36234,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 84 "ROW7")
 			(uuid "69c8e176-6761-4747-b696-8d6dc113c14e")
 		)
 		(pad "2" smd roundrect
@@ -36430,7 +36241,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 52 "N$41")
+			(net 36 "N$41")
 			(uuid "7516a832-15c2-4368-8fe3-8ae23db154ce")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -36699,7 +36510,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "74cb4ad9-b057-4cdb-bb24-da9b97473b5f")
 		)
 		(pad "2" smd roundrect
@@ -36707,7 +36517,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 76 "N$63")
+			(net 60 "N$63")
 			(uuid "56eb774c-f700-459b-8470-1f9a7e699e06")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -36976,7 +36786,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "d4480510-da7e-44da-9c8d-878e0e410cb5")
 		)
 		(pad "2" smd roundrect
@@ -36984,7 +36793,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 31 "N$22")
+			(net 15 "N$22")
 			(uuid "b4e4d920-3d6e-4098-9f9f-206436be7533")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -37253,7 +37062,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "f2a9bd17-76e8-4518-a4e2-878df01342b0")
 		)
 		(pad "2" smd roundrect
@@ -37261,7 +37069,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 81 "N$7")
+			(net 65 "N$7")
 			(uuid "5bc8b784-6825-47db-aaa9-c5a41c0bd3fc")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -37530,7 +37338,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 84 "ROW7")
 			(uuid "0ab494a9-f0cd-44b5-8dcd-3384ad73614d")
 		)
 		(pad "2" smd roundrect
@@ -37538,7 +37345,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 53 "N$42")
+			(net 37 "N$42")
 			(uuid "ecc16e7b-5880-42b7-b9f0-f2763dc658ca")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -37807,7 +37614,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "7520f625-7b7e-4541-8bcf-0aee402fae7f")
 		)
 		(pad "2" smd roundrect
@@ -37815,7 +37621,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 63 "N$51")
+			(net 47 "N$51")
 			(uuid "4ebc0d1d-cada-4b92-8879-e5e8c8b9c258")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -38084,7 +37890,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "871fa5a9-f2b1-4259-82c9-80bc4e731496")
 		)
 		(pad "2" smd roundrect
@@ -38092,7 +37897,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 23 "N$15")
+			(net 7 "N$15")
 			(uuid "1f958850-ba38-4dff-816a-ffe3a94b2c25")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -38361,7 +38166,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "7826c526-0618-4925-aa70-9aeeba76be0d")
 		)
 		(pad "2" smd roundrect
@@ -38369,7 +38173,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 71 "N$59")
+			(net 55 "N$59")
 			(uuid "b9ae55c0-4ef7-410f-a7bd-334dd104cdd0")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -38638,7 +38442,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "38f1dcbf-e1ed-4869-86ac-dfa10aa331e4")
 		)
 		(pad "2" smd roundrect
@@ -38646,7 +38449,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 34 "N$25")
+			(net 18 "N$25")
 			(uuid "042571b8-a6b1-49cd-a621-ef3f47d48022")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -38915,7 +38718,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "5917514e-63e3-4317-b8b4-2bf01565b69a")
 		)
 		(pad "2" smd roundrect
@@ -38923,7 +38725,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 56 "N$45")
+			(net 40 "N$45")
 			(uuid "7bc304cd-e469-40d4-b06c-f03232de15f2")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -39192,7 +38994,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "fd2f6c4a-ba89-42f6-91bc-22c35f124c7d")
 		)
 		(pad "2" smd roundrect
@@ -39200,7 +39001,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 36 "N$27")
+			(net 20 "N$27")
 			(uuid "732d4a19-e197-4546-aff2-8ba86e90cfa3")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -39469,7 +39270,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "c84d2240-de66-476a-ad47-38055cd85820")
 		)
 		(pad "2" smd roundrect
@@ -39477,7 +39277,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 25 "N$17")
+			(net 9 "N$17")
 			(uuid "a263a964-ab4b-4e51-b02e-d1148f92bbc6")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -39746,7 +39546,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "4f8087a0-6ac2-4bc0-9433-1e9c23c69d7d")
 		)
 		(pad "2" smd roundrect
@@ -39754,7 +39553,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 26 "N$18")
+			(net 10 "N$18")
 			(uuid "84faef10-6f98-4196-aef9-0eeb8235bfac")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -40023,7 +39822,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 84 "ROW7")
 			(uuid "c4a05cec-cb45-4c32-9552-95822b87ba0a")
 		)
 		(pad "2" smd roundrect
@@ -40031,7 +39829,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 80 "N$67")
+			(net 64 "N$67")
 			(uuid "941d641d-915a-403d-b454-e9bf0191a68c")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -40300,7 +40098,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "29d2054c-83bb-4552-b4c9-28473dd16de7")
 		)
 		(pad "2" smd roundrect
@@ -40308,7 +40105,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 41 "N$31")
+			(net 25 "N$31")
 			(uuid "15e4b117-4634-42d3-84cf-c509775d29a4")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -40577,7 +40374,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "ba0fe785-2b49-4872-b86b-e4d9ad7ded2b")
 		)
 		(pad "2" smd roundrect
@@ -40585,7 +40381,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 75 "N$62")
+			(net 59 "N$62")
 			(uuid "2fb316b3-c7ca-4f2f-93f7-3b539018fc67")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -40854,7 +40650,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "8479d6d0-ad03-4de7-9c6a-9c066e2b39ed")
 		)
 		(pad "2" smd roundrect
@@ -40862,7 +40657,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 21 "N$13")
+			(net 5 "N$13")
 			(uuid "b25bd375-8db4-468f-981b-ce26477173ec")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -41131,7 +40926,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "4a74b76a-7b93-4601-8ba2-6716e8760231")
 		)
 		(pad "2" smd roundrect
@@ -41139,7 +40933,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 24 "N$16")
+			(net 8 "N$16")
 			(uuid "a08ac32c-3ff1-4289-bee0-3d1984faa237")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -41408,7 +41202,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "4d2b1a56-1f0a-4b2d-9f6b-c82d9b66ec83")
 		)
 		(pad "2" smd roundrect
@@ -41416,7 +41209,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 27 "N$19")
+			(net 11 "N$19")
 			(uuid "f092b00d-68ee-449a-878b-b1f4495d2acb")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -41685,7 +41478,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "6eb8b4e2-a6b1-4691-bc57-a6e63d8320ec")
 		)
 		(pad "2" smd roundrect
@@ -41693,7 +41485,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 28 "N$2")
+			(net 12 "N$2")
 			(uuid "1c6f6763-c614-4ba7-9804-386b12159882")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -41962,7 +41754,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "e3b35f31-4607-4f65-96a7-9e7e22335194")
 		)
 		(pad "2" smd roundrect
@@ -41970,7 +41761,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 50 "N$4")
+			(net 34 "N$4")
 			(uuid "65ef4236-02a4-4550-9c34-bd5e8d5315d5")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -42239,7 +42030,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "04eef673-54d3-4d09-a248-b321e906a55d")
 		)
 		(pad "2" smd roundrect
@@ -42247,7 +42037,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 29 "N$20")
+			(net 13 "N$20")
 			(uuid "1d00f994-c883-433e-bfc2-e32100630c7c")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -42516,7 +42306,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 14 "ROW4")
 			(uuid "8b2b1122-3df6-42c6-bed3-00dd10f860a6")
 		)
 		(pad "2" smd roundrect
@@ -42524,7 +42313,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 54 "N$43")
+			(net 38 "N$43")
 			(uuid "a186b954-d7dc-405d-af35-9fb5ddc3f6d2")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -42793,7 +42582,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 84 "ROW7")
 			(uuid "a33171e5-766b-4a64-ab4c-6abd0991c1f8")
 		)
 		(pad "2" smd roundrect
@@ -42801,7 +42589,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 51 "N$40")
+			(net 35 "N$40")
 			(uuid "cacdfd50-2895-4257-a339-b10aba3e2bbd")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -43070,7 +42858,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "f32d27ce-ea74-4b16-a389-3195e0955230")
 		)
 		(pad "2" smd roundrect
@@ -43078,7 +42865,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 20 "N$12")
+			(net 4 "N$12")
 			(uuid "126b646c-0cb2-4f45-8a0e-b5a66fc9f22d")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -43347,7 +43134,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "7333287a-377a-4914-8397-3617c28b9f47")
 		)
 		(pad "2" smd roundrect
@@ -43355,7 +43141,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 37 "N$28")
+			(net 21 "N$28")
 			(uuid "6ae85646-2481-494f-be10-3f324b007764")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -43624,7 +43410,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "f3b9cb29-9595-462f-8d74-dc6a4eee883b")
 		)
 		(pad "2" smd roundrect
@@ -43632,7 +43417,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 44 "N$34")
+			(net 28 "N$34")
 			(uuid "f1bab225-629a-4743-9edd-80046616619c")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -43901,7 +43686,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 13 "ROW3")
 			(uuid "6e8e1173-4d92-4ec0-9b99-89e66c010047")
 		)
 		(pad "2" smd roundrect
@@ -43909,7 +43693,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 82 "N$8")
+			(net 66 "N$8")
 			(uuid "573e7c55-b663-4dbf-8b77-1c7ec9b54772")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -44178,7 +43962,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 12 "ROW2")
 			(uuid "6bdd124a-197c-41a3-a0b4-a7c5fa4decf0")
 		)
 		(pad "2" smd roundrect
@@ -44186,7 +43969,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 39 "N$3")
+			(net 23 "N$3")
 			(uuid "220bccaf-df2e-4a8c-b384-af69e5403a3d")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -44455,7 +44238,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 16 "ROW6")
 			(uuid "34e66b6c-0afb-4186-8634-ddf87610be81")
 		)
 		(pad "2" smd roundrect
@@ -44463,7 +44245,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 43 "N$33")
+			(net 27 "N$33")
 			(uuid "dd518d9f-9dcc-4cdd-8704-ae94fca36dc7")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -44732,7 +44514,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "c8bdc659-549a-46ea-8f1e-0a0896e2eaac")
 		)
 		(pad "2" smd roundrect
@@ -44740,7 +44521,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 64 "N$52")
+			(net 48 "N$52")
 			(uuid "aff34821-b236-4777-8aef-64af4bf6690e")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -45009,7 +44790,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 11 "ROW1")
 			(uuid "8002b7d6-9d24-4921-8c6f-79f132ac2caf")
 		)
 		(pad "2" smd roundrect
@@ -45017,7 +44797,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 59 "N$48")
+			(net 43 "N$48")
 			(uuid "9df45d1d-8764-4a23-b37a-5b30be93bc5c")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
@@ -45286,7 +45066,6 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 15 "ROW5")
 			(uuid "930e4a25-a293-45cd-a643-a76fd688034b")
 		)
 		(pad "2" smd roundrect
@@ -45294,7 +45073,7 @@
 			(size 0.5 0.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
-			(net 40 "N$30")
+			(net 24 "N$30")
 			(uuid "5bad77ec-5a11-48c9-9081-970ce9b0177a")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl"
