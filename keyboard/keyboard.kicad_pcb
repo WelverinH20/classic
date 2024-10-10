@@ -6,7 +6,7 @@
 		(thickness 1.6)
 		(legacy_teardrops no)
 	)
-	(paper "A4")
+	(paper "A2")
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)
@@ -150,7 +150,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "0353c2ff-4c9e-455e-b02b-ef73405be822")
-		(at 160.525 37.95)
+		(at 271.78 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW8"
@@ -476,7 +476,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "041884bd-ceed-449a-9b0b-c4edf12d7fa2")
-		(at 236.725 37.95)
+		(at 347.98 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW12"
@@ -802,7 +802,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.25u"
 		(layer "F.Cu")
 		(uuid "0455ebeb-0dbc-47d6-be03-3110829ab70e")
-		(at 159.02 114.15)
+		(at 270.275 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 6.25u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.25u")
 		(property "Reference" "SW62"
@@ -1128,7 +1128,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "046b54ac-570b-4ad5-bb89-671187b1a59b")
-		(at 312.925 57)
+		(at 424.18 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW30"
@@ -1454,7 +1454,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "04b08b1f-6eab-40cb-9b8e-41acf9feebce")
-		(at 227.2 57)
+		(at 338.455 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW26"
@@ -1780,7 +1780,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u"
 		(layer "F.Cu")
 		(uuid "0dae7e6c-87a2-4bca-905a-916c408234e4")
-		(at 31.9375 57)
+		(at 143.1925 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.50u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u")
 		(property "Reference" "SW16"
@@ -2106,7 +2106,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "12379874-012e-4194-943c-d9238f44db64")
-		(at 155.7625 76.05)
+		(at 267.0175 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW37"
@@ -2432,7 +2432,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "1594e100-ccff-4148-b8d6-e9b85845c722")
-		(at 60.5125 76.05)
+		(at 171.7675 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW32"
@@ -2758,7 +2758,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "1a7a9be2-5945-446a-a36b-9ad8bd8754c9")
-		(at 65.275 37.95)
+		(at 176.53 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW3"
@@ -3084,7 +3084,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "234aea19-635d-4cf9-82db-e2fad4366c12")
-		(at 89.0875 95.1)
+		(at 200.3425 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW47"
@@ -3410,7 +3410,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u"
 		(layer "F.Cu")
 		(uuid "237ae182-e321-4a4e-8ad3-9950eb94f0ec")
-		(at 53.36875 114.15)
+		(at 164.62375 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.25u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u")
 		(property "Reference" "SW60"
@@ -3736,7 +3736,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "25a17a14-a26a-4fea-9d42-acfa32f7501b")
-		(at 131.95 57)
+		(at 243.205 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW21"
@@ -4062,7 +4062,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "2b1c0980-08c9-4136-8b1d-78f372927b14")
-		(at 122.425 37.95)
+		(at 233.68 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW6"
@@ -4388,7 +4388,7 @@
 	(footprint "Keebio-Parts:Elite-C"
 		(layer "F.Cu")
 		(uuid "2dabd509-5ef4-48a1-9705-becbc62e542e")
-		(at 5.604 45.54375 -90)
+		(at 116.859 182.85375 -90)
 		(property "Reference" "U1"
 			(at 0 1.625 90)
 			(layer "F.SilkS")
@@ -5379,7 +5379,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "2fe1410c-6645-407b-9635-4282aecacca9")
-		(at 217.675 37.95)
+		(at 328.93 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW11"
@@ -5705,7 +5705,7 @@
 	(footprint "Library:WS2812B SMD Strip 3mm"
 		(layer "F.Cu")
 		(uuid "31fae2cb-bd70-4dfa-bf22-a066b2d6fe36")
-		(at 20.209 89.087)
+		(at 131.464 226.397)
 		(property "Reference" "LED_PAD"
 			(at 0 -0.5 0)
 			(unlocked yes)
@@ -5808,7 +5808,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u"
 		(layer "F.Cu")
 		(uuid "32318949-6aa8-446f-9d57-a622cea5fd1f")
-		(at 289.1125 57)
+		(at 400.3675 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.50u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u")
 		(property "Reference" "SW29"
@@ -6134,7 +6134,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "32ff0d3c-a9dd-4387-9a16-ae26def2ff4d")
-		(at 293.875 114.15)
+		(at 405.13 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW66"
@@ -6460,7 +6460,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "342a216c-2fbc-4f5f-8217-bab6ea72d19e")
-		(at 222.4375 95.1)
+		(at 333.6925 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW54"
@@ -6786,7 +6786,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "346b5c55-6d5e-4fd8-9838-ea8957224f2c")
-		(at 70.0375 95.1)
+		(at 181.2925 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW46"
@@ -7112,7 +7112,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "36061939-8ec3-437e-ab02-f4d4620b965d")
-		(at 246.25 57)
+		(at 357.505 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW27"
@@ -7438,7 +7438,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "36a4c208-80b1-44c5-aa40-e044e46a8dbe")
-		(at 136.7125 76.05)
+		(at 247.9675 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW36"
@@ -7764,7 +7764,7 @@
 	(footprint "Library:WS2812B SMD Strip 3mm"
 		(layer "F.Cu")
 		(uuid "3746aae1-6b62-4eac-8e9b-97204b9e323b")
-		(at 20.082 127.187)
+		(at 131.337 264.497)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(unlocked yes)
@@ -7856,7 +7856,7 @@
 	(footprint "Keebio-Parts:Resistor"
 		(layer "F.Cu")
 		(uuid "3ca54591-bf0c-4b21-aef6-b7c81997ba3d")
-		(at 296.561 13.204)
+		(at 407.816 150.514)
 		(property "Reference" "Ref**"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -8348,7 +8348,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "3fc5ef06-058c-4409-80c9-08952123a514")
-		(at 231.9625 76.05)
+		(at 343.2175 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW41"
@@ -8674,7 +8674,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "41af289b-74ae-4708-a9d2-f7fbbf2906d6")
-		(at 255.775 37.95)
+		(at 367.03 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW13"
@@ -9000,7 +9000,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "41d5092b-44b2-467a-95f8-19d35df949ce")
-		(at 151 57)
+		(at 262.255 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW22"
@@ -9326,7 +9326,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "42971a3c-317a-4317-be25-f00449399d9b")
-		(at 193.8625 76.05)
+		(at 305.1175 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW39"
@@ -9652,7 +9652,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "42f1daf4-6f15-4742-b59e-49323dbea007")
-		(at 260.5375 95.1)
+		(at 371.7925 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW56"
@@ -9978,7 +9978,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "437da82c-e493-4457-8db4-aaa94cabfe13")
-		(at 146.2375 95.1)
+		(at 257.4925 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW50"
@@ -10304,7 +10304,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "45f9d287-a52b-4040-8eca-aa8156032e52")
-		(at 265.3 57)
+		(at 376.555 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW28"
@@ -10630,7 +10630,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "4831a8cc-fce6-4e48-835c-7a3dcce380e9")
-		(at 198.625 37.95)
+		(at 309.88 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW10"
@@ -10956,7 +10956,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "498eebeb-9fc4-4871-a335-5929a133ea26")
-		(at 293.875 95.1)
+		(at 405.13 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW57"
@@ -11282,7 +11282,7 @@
 	(footprint "Keebio-Parts:RotaryEncoder_EC11"
 		(layer "F.Cu")
 		(uuid "49b73203-81ac-4402-828c-8ece1604c0b1")
-		(at 312.9694 10.7148)
+		(at 424.2244 148.0248)
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "EC11_Rotary_Encoder"
@@ -11686,7 +11686,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "50f9ef80-5701-4a07-a0fa-4422cc924e15")
-		(at 117.6625 76.05)
+		(at 228.9175 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW35"
@@ -12012,7 +12012,7 @@
 	(footprint "Library:WS2812B SMD Strip 3mm"
 		(layer "F.Cu")
 		(uuid "52132254-d8b8-4323-ab54-2272162d2143")
-		(at 20.082 108.137)
+		(at 131.337 245.447)
 		(property "Reference" "LED_PAD"
 			(at 0 -0.5 0)
 			(unlocked yes)
@@ -12115,7 +12115,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "5643f490-95ba-4317-9a13-f46aca407e2e")
-		(at 98.6125 76.05)
+		(at 209.8675 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW34"
@@ -12441,7 +12441,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "5b1f3b98-b685-4e3e-aff5-1188281508a6")
-		(at 184.3375 95.1)
+		(at 295.5925 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW52"
@@ -12767,7 +12767,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "60957f10-f2c4-4cb3-b680-58afbc08c370")
-		(at 189.1 57)
+		(at 300.355 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW24"
@@ -13093,7 +13093,7 @@
 	(footprint "Keebio-Parts:Resistor"
 		(layer "F.Cu")
 		(uuid "647d3a2b-bc63-43fc-a69e-bfdeb2f1f277")
-		(at 254.0668 8.1494)
+		(at 365.3218 145.4594)
 		(property "Reference" "Ref**"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -13585,7 +13585,7 @@
 	(footprint "Library:WS2812B SMD Strip 3mm"
 		(layer "F.Cu")
 		(uuid "64fdbe86-7d27-4fc6-8404-b996878f3402")
-		(at 20.336 70.044)
+		(at 131.591 207.354)
 		(property "Reference" "LED_PAD"
 			(at 0 -0.5 0)
 			(unlocked yes)
@@ -13688,7 +13688,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "65279dc7-4189-4795-a010-8ae3a183d859")
-		(at 208.15 57)
+		(at 319.405 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW25"
@@ -14014,7 +14014,7 @@
 	(footprint "Keebio-Parts:Resistor"
 		(layer "F.Cu")
 		(uuid "6e20db16-63d1-4605-9611-9734bb22aa44")
-		(at 253.9652 13.1786)
+		(at 365.2202 150.4886)
 		(property "Reference" "Ref**"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -14506,7 +14506,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "70403fae-6fbd-40c8-9b4e-dc53d32f97ac")
-		(at 108.1375 95.1)
+		(at 219.3925 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW48"
@@ -14832,7 +14832,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u"
 		(layer "F.Cu")
 		(uuid "7e5f3877-7733-4130-a3a1-2a2041bcdc20")
-		(at 77.18125 114.15)
+		(at 188.43625 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.25u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u")
 		(property "Reference" "SW61"
@@ -15158,7 +15158,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "852fd89a-bc13-4913-a302-e994a115423b")
-		(at 312.925 114.15)
+		(at 424.18 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW67"
@@ -15484,7 +15484,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "877de5a6-ab43-40ee-8902-8ad15527bfca")
-		(at 212.9125 76.05)
+		(at 324.1675 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW40"
@@ -15810,7 +15810,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "87ebd328-a70a-46e4-bf49-ea90f585a28a")
-		(at 112.9 57)
+		(at 224.155 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW20"
@@ -16136,7 +16136,7 @@
 	(footprint "Keebio-Parts:MountingHole"
 		(layer "F.Cu")
 		(uuid "88642a58-0cae-4c34-aef3-569c66c2d675")
-		(at 296.434 21.205)
+		(at 407.689 158.515)
 		(property "Reference" "U4"
 			(at 0 -4 0)
 			(layer "F.SilkS")
@@ -16220,7 +16220,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "8ab72e58-7761-46c6-9110-9de33f7640c0")
-		(at 241.4875 95.1)
+		(at 352.7425 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW55"
@@ -16546,7 +16546,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "8b8dc367-e96d-4cd5-b296-daa8440ae939")
-		(at 93.85 57)
+		(at 205.105 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW19"
@@ -16872,7 +16872,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "97899d05-36fa-4c90-a1ef-76c853d68ad8")
-		(at 74.8 57)
+		(at 186.055 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW18"
@@ -17198,7 +17198,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "9f96354b-28d0-401b-b421-9154ec38ad4d")
-		(at 84.325 37.95)
+		(at 195.58 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW4"
@@ -17524,7 +17524,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "a3efc7a0-a1fb-461c-af17-02368341e919")
-		(at 165.2875 95.1)
+		(at 276.5425 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW51"
@@ -17850,7 +17850,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "a4144906-77d6-4c02-b530-a056bfa1c81b")
-		(at 179.575 37.95)
+		(at 290.83 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW9"
@@ -18176,7 +18176,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "a9b661c5-962d-4f10-b6fa-68d3f9afbd16")
-		(at 203.3875 95.1)
+		(at 314.6425 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW53"
@@ -18502,7 +18502,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "aa632172-8bac-4d5b-944d-ef2420a4cada")
-		(at 312.925 37.95)
+		(at 424.18 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW15"
@@ -18828,7 +18828,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "ac5a8fc7-81b3-4ffc-a4bc-0d3afecf6712")
-		(at 55.75 57)
+		(at 167.005 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW17"
@@ -19154,7 +19154,7 @@
 	(footprint "Keebio-Parts:Resistor"
 		(layer "F.Cu")
 		(uuid "b299e987-1394-4ab7-9bed-1b035f03b3d8")
-		(at 296.6626 8.1748)
+		(at 407.9176 145.4848)
 		(property "Reference" "Ref**"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -19646,7 +19646,7 @@
 	(footprint "Keebio-Parts:MountingHole"
 		(layer "F.Cu")
 		(uuid "b89f7a37-3b06-4ba0-b9c2-22c69203ac07")
-		(at 5.35 114.677)
+		(at 116.605 251.987)
 		(property "Reference" "U4"
 			(at 0 -4 0)
 			(layer "F.SilkS")
@@ -19730,7 +19730,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "bc47ee96-66cc-4341-a70b-7fc3631c17c6")
-		(at 103.375 37.95)
+		(at 214.63 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW5"
@@ -20056,7 +20056,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "bcf8d07c-695c-48dd-9268-4cc015cba8c6")
-		(at 79.5625 76.05)
+		(at 190.8175 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW33"
@@ -20382,7 +20382,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.75u"
 		(layer "F.Cu")
 		(uuid "be6a52af-1156-49bd-9965-231a2c356cea")
-		(at 34.31875 76.05)
+		(at 145.57375 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.75u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.75u")
 		(property "Reference" "SW_31"
@@ -20708,7 +20708,7 @@
 	(footprint "Keebio-Parts:MountingHole"
 		(layer "F.Cu")
 		(uuid "bfb0a1ab-9bf8-42fd-860d-edf839ce6bf5")
-		(at 203.47 114.931)
+		(at 314.725 252.241)
 		(property "Reference" "U4"
 			(at 0 -4 0)
 			(layer "F.SilkS")
@@ -20792,7 +20792,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "c1856703-0793-4a1d-955a-8a1323916de9")
-		(at 251.0125 76.05)
+		(at 362.2675 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW42"
@@ -21118,7 +21118,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.25u"
 		(layer "F.Cu")
 		(uuid "c8fe20a9-77c9-49b6-a2cd-51870cd4cc2b")
-		(at 281.96875 76.05)
+		(at 393.22375 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 2.25u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u")
 		(property "Reference" "SW43"
@@ -21444,7 +21444,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "cdb6bb5c-0e0c-4955-8b91-42623ad5eba1")
-		(at 27.175 37.95)
+		(at 138.43 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW1"
@@ -21770,7 +21770,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "cdbd8090-9914-41a8-915a-bb53ec1a3476")
-		(at 236.725 114.15)
+		(at 347.98 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW63"
@@ -22096,7 +22096,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "d875d9f4-4ee8-4220-a06a-1b1412ef624e")
-		(at 170.05 57)
+		(at 281.305 194.31)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW23"
@@ -22422,7 +22422,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "da2ed165-b323-4b78-8063-dd98a7f2643d")
-		(at 312.925 95.1)
+		(at 424.18 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW58"
@@ -22748,7 +22748,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "dae6e6c8-4cd9-4b6d-ad37-6962c05cf301")
-		(at 141.475 37.95)
+		(at 252.73 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW7"
@@ -23074,7 +23074,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "db2479f9-56e4-4690-894a-fb51e1dd4227")
-		(at 312.925 76.05)
+		(at 424.18 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW44"
@@ -23400,7 +23400,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "dbf2b109-91ee-45ff-bb94-a52750db0df5")
-		(at 274.825 114.15)
+		(at 386.08 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW65"
@@ -23726,7 +23726,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "e4de3a7c-3579-4dc9-8b3c-952bc62d651a")
-		(at 127.1875 95.1)
+		(at 238.4425 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW49"
@@ -24052,7 +24052,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.00u"
 		(layer "F.Cu")
 		(uuid "ebca18b0-7801-40a9-808a-c70d155e3da1")
-		(at 284.35 37.95)
+		(at 395.605 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 2.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u")
 		(property "Reference" "SW14"
@@ -24378,7 +24378,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "ece04255-b5d5-4294-bbe6-402efd0e99dc")
-		(at 46.225 37.95)
+		(at 157.48 175.26)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW2"
@@ -24704,7 +24704,7 @@
 	(footprint "Keebio-Parts:RotaryEncoder_EC11"
 		(layer "F.Cu")
 		(uuid "ed1f5238-d91f-4d7e-a598-a05413ac76a0")
-		(at 270.3736 10.6894)
+		(at 381.6286 147.9994)
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "EC11_Rotary_Encoder"
@@ -25108,7 +25108,7 @@
 	(footprint "Library:WS2812B SMD Strip 3mm"
 		(layer "F.Cu")
 		(uuid "eea480de-3036-4c46-9ee6-7ac189cb23dd")
-		(at 20.336 50.994)
+		(at 131.591 188.304)
 		(property "Reference" "LED_PAD"
 			(at 0 -0.5 0)
 			(unlocked yes)
@@ -25211,7 +25211,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u"
 		(layer "F.Cu")
 		(uuid "ef4a0495-e824-4628-b1e7-392ba85f0b26")
-		(at 29.55625 114.15)
+		(at 140.81125 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.25u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u")
 		(property "Reference" "SW59"
@@ -25537,7 +25537,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "ef6ffada-bb78-4c2a-bcc2-40229ffd852a")
-		(at 174.8125 76.05)
+		(at 286.0675 213.36)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW38"
@@ -25863,7 +25863,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "f1120c4d-bbf4-43b0-8dcd-f5e10ea0836a")
-		(at 255.775 114.15)
+		(at 367.03 251.46)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW64"
@@ -26189,7 +26189,7 @@
 	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.25u"
 		(layer "F.Cu")
 		(uuid "f3793928-d136-4b39-9b42-4eafbf73b72e")
-		(at 39.08125 95.1)
+		(at 150.33625 232.41)
 		(descr "Cherry MX keyswitch PCB Mount Keycap 2.25u")
 		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u")
 		(property "Reference" "SW45"
@@ -26515,7 +26515,7 @@
 	(footprint "Keebio-Parts:MountingHole"
 		(layer "F.Cu")
 		(uuid "f39f70b1-e76a-489c-a613-e3fc9565bc45")
-		(at 5.35 69.465)
+		(at 116.605 206.775)
 		(property "Reference" "U4"
 			(at 0 -4 0)
 			(layer "F.SilkS")
@@ -26599,7 +26599,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "01888977-a504-437e-9900-b61d9412fcf3")
-		(at 298.955 117.18 90)
+		(at 410.21 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D66"
@@ -26875,7 +26875,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "030082b1-f296-4f19-9906-c069bd7b5c22")
-		(at 175.13 60.03 90)
+		(at 286.385 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D23"
@@ -27151,7 +27151,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "047e4a95-4e33-4359-a7d5-d05a762fe5b3")
-		(at 65.5925 79.08 90)
+		(at 176.8475 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D32"
@@ -27427,7 +27427,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "048c2665-f6cf-41ce-84f1-319ab3883717")
-		(at 289.43 40.98 90)
+		(at 400.685 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D14"
@@ -27703,7 +27703,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "05473726-2187-488f-910d-30686328599d")
-		(at 279.905 117.18 90)
+		(at 391.16 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D65"
@@ -27979,7 +27979,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "0d7467bd-004c-45ed-a356-745fd264be0b")
-		(at 108.455 40.98 90)
+		(at 219.71 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D5"
@@ -28255,7 +28255,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "0f1c05b4-d1e0-4b4f-9d14-3356f3c4de06")
-		(at 198.9425 79.08 90)
+		(at 310.1975 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D39"
@@ -28531,7 +28531,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "15b09870-b4ea-4868-acd9-5fce3fb44eaf")
-		(at 75.1175 98.13 90)
+		(at 186.3725 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D46"
@@ -28807,7 +28807,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "16ca1bd7-42dd-4638-98b8-48747c53c235")
-		(at 137.03 60.03 90)
+		(at 248.285 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D21"
@@ -29083,7 +29083,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "174ee60d-33a2-4805-bb8d-a9196fd7913d")
-		(at 232.28 60.03 90)
+		(at 343.535 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D26"
@@ -29359,7 +29359,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "1794b108-b175-4bea-8587-8116a97281c6")
-		(at 194.18 60.03 90)
+		(at 305.435 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D24"
@@ -29635,7 +29635,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "1f9cd35f-9def-4054-a4f3-23f4e76b2598")
-		(at 208.4675 98.13 90)
+		(at 319.7225 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D53"
@@ -29911,7 +29911,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "21a15da4-0e90-4a09-bd0c-b2c047a57c05")
-		(at 203.705 40.98 90)
+		(at 314.96 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D10"
@@ -30187,7 +30187,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "2fcc2880-6608-4a89-98a6-6a08bc1aea05")
-		(at 58.44875 117.18 90)
+		(at 169.70375 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D60"
@@ -30463,7 +30463,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "31523b8a-3dce-4647-a21d-87e79bdc190e")
-		(at 246.5675 98.13 90)
+		(at 357.8225 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D55"
@@ -30739,7 +30739,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "345a91fa-a80a-4236-8691-eefa731aabf3")
-		(at 122.7425 79.08 90)
+		(at 233.9975 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D35"
@@ -31015,7 +31015,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "374710ba-ed54-4fb2-91cb-166291c9b403")
-		(at 260.855 117.18 90)
+		(at 372.11 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D64"
@@ -31291,7 +31291,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "3c1dea4d-c9aa-4dbe-9c86-aa7243fe1513")
-		(at 141.7925 79.08 90)
+		(at 253.0475 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D36"
@@ -31567,7 +31567,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "3c4032b2-bd19-4c56-837c-50c13297a742")
-		(at 265.6175 98.13 90)
+		(at 376.8725 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D56"
@@ -31843,7 +31843,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "3c719e15-d8ae-4a82-afb9-1a9754dc0c9b")
-		(at 227.5175 98.13 90)
+		(at 338.7725 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D54"
@@ -32119,7 +32119,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "45aaf047-4a5f-490e-a5bd-81f64271bf07")
-		(at 94.1675 98.13 90)
+		(at 205.4225 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D47"
@@ -32395,7 +32395,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "47512f22-944b-47f2-970e-a81c73ee28f7")
-		(at 318.005 98.13 90)
+		(at 429.26 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D58"
@@ -32671,7 +32671,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "4aa6398a-b925-42f1-adb9-20154fbcc445")
-		(at 160.8425 79.08 90)
+		(at 272.0975 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D37"
@@ -32947,7 +32947,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "4efe069a-0f8d-439d-80e5-70c214640933")
-		(at 151.3175 98.13 90)
+		(at 262.5725 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D50"
@@ -33223,7 +33223,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "5240fd8a-fb63-454c-ab62-19dd9119ad2a")
-		(at 294.1925 60.03 90)
+		(at 405.4475 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D29"
@@ -33499,7 +33499,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "5318ff4e-bb40-4f70-89fa-99db4e5a7ee6")
-		(at 179.8925 79.08 90)
+		(at 291.1475 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D38"
@@ -33775,7 +33775,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "5922213f-8fea-4c94-b761-6f8952f0797e")
-		(at 222.755 40.98 90)
+		(at 334.01 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D11"
@@ -34051,7 +34051,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "5a21f170-311f-4ae2-b1b8-098b14d5db0b")
-		(at 298.955 98.13 90)
+		(at 410.21 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D57"
@@ -34327,7 +34327,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "6038352d-405b-41ac-8e90-30b12f2af6f2")
-		(at 127.505 40.98 90)
+		(at 238.76 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D6"
@@ -34603,7 +34603,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "609bc8a9-00a2-4aca-8db9-7b0983167519")
-		(at 32.255 40.98 90)
+		(at 143.51 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D1"
@@ -34879,7 +34879,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "60fd265d-a8a7-42ae-a12e-0df398bdf9f1")
-		(at 82.26125 117.18 90)
+		(at 193.51625 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D61"
@@ -35155,7 +35155,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "624651d2-6701-4f11-90b2-0a20deedffa9")
-		(at 318.005 79.08 90)
+		(at 429.26 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D44"
@@ -35431,7 +35431,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "6440909e-54e5-43e9-bf4b-811c7dd33b0c")
-		(at 132.2675 98.13 90)
+		(at 243.5225 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D49"
@@ -35707,7 +35707,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "718a4944-c683-44d3-80a2-63ccfd244bdf")
-		(at 184.655 40.98 90)
+		(at 295.91 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D9"
@@ -35983,7 +35983,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "749b430b-2f81-401c-8db1-f80662ff5160")
-		(at 237.0425 79.08 90)
+		(at 348.2975 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D41"
@@ -36259,7 +36259,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "788c1ba9-9e3e-47f8-908e-db8901f52c88")
-		(at 241.805 117.18 90)
+		(at 353.06 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D63"
@@ -36535,7 +36535,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "79d5dcd5-f673-495e-b402-2792558302fd")
-		(at 156.08 60.03 90)
+		(at 267.335 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D22"
@@ -36811,7 +36811,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "7e0afa4c-72a7-4884-93c7-a2b3edc2c63a")
-		(at 146.555 40.98 90)
+		(at 257.81 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D7"
@@ -37087,7 +37087,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "83c1b174-5855-40e6-953b-9ad9756e7cf0")
-		(at 256.0925 79.08 90)
+		(at 367.3475 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D42"
@@ -37363,7 +37363,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "895d8e41-93a0-45e0-8405-15694fb34ade")
-		(at 170.3675 98.13 90)
+		(at 281.6225 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D51"
@@ -37639,7 +37639,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "8b7149bb-ab2e-41d0-a057-da98cc6325df")
-		(at 318.005 40.98 90)
+		(at 429.26 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D15"
@@ -37915,7 +37915,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "91f338c1-e720-4706-bb71-de78c0182761")
-		(at 34.63625 117.18 90)
+		(at 145.89125 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D59"
@@ -38191,7 +38191,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "93b96589-64e2-4049-9028-81e26ce6bea4")
-		(at 213.23 60.03 90)
+		(at 324.485 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D25"
@@ -38467,7 +38467,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "93d6a4c1-e77c-416c-ade9-a49229593d28")
-		(at 44.16125 98.13 90)
+		(at 155.41625 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D45"
@@ -38743,7 +38743,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "9aacbb76-133d-416a-8373-798a0a03b2f9")
-		(at 251.33 60.03 90)
+		(at 362.585 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D27"
@@ -39019,7 +39019,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "a29ff25d-367d-43a0-9062-bd0ef5c12614")
-		(at 60.83 60.03 90)
+		(at 172.085 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D17"
@@ -39295,7 +39295,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "aa110fd6-c730-4757-b34d-ee2c24d66a35")
-		(at 79.88 60.03 90)
+		(at 191.135 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D18"
@@ -39571,7 +39571,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "ab7634fb-fb4e-4162-9dce-4b0c5b64a927")
-		(at 318.005 117.18 90)
+		(at 429.26 254.49 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D67"
@@ -39847,7 +39847,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "aee6627d-f26c-414c-a1a4-c60a1325661d")
-		(at 39.39875 79.08 90)
+		(at 150.65375 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D31"
@@ -40123,7 +40123,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "b1bcf092-d4cf-4f0f-bce9-f1cf8621a19b")
-		(at 164.15 117.275 90)
+		(at 275.405 254.585 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D62"
@@ -40399,7 +40399,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "bbe28cd6-df4c-4fb4-896f-8fcb6ae3a5e1")
-		(at 260.855 40.98 90)
+		(at 372.11 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D13"
@@ -40675,7 +40675,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "c38f462e-765f-4432-bdcf-25b9097bce70")
-		(at 37.0175 60.03 90)
+		(at 148.2725 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D16"
@@ -40951,7 +40951,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "c4c54720-07b0-4255-ac5d-b77b84d12f1c")
-		(at 98.93 60.03 90)
+		(at 210.185 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D19"
@@ -41227,7 +41227,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "d5d22243-d58e-48a4-a177-4bcffaf9a960")
-		(at 51.305 40.98 90)
+		(at 162.56 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D2"
@@ -41503,7 +41503,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "d9657df8-f646-486b-bcca-b7c5a1885b7d")
-		(at 89.405 40.98 90)
+		(at 200.66 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D4"
@@ -41779,7 +41779,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "da3efdac-5044-4168-8460-4d7a14853722")
-		(at 117.98 60.03 90)
+		(at 229.235 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D20"
@@ -42055,7 +42055,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "e15f4021-fa4c-4ede-b985-91cc2defac6e")
-		(at 287.04875 79.08 90)
+		(at 398.30375 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D43"
@@ -42331,7 +42331,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "e1731593-066f-4ac9-b5c0-a1cf0880a1c2")
-		(at 217.9925 79.08 90)
+		(at 329.2475 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D40"
@@ -42607,7 +42607,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "e2e7d2f9-a1a0-4ca4-b564-c12241fbd2f1")
-		(at 241.805 40.98 90)
+		(at 353.06 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D12"
@@ -42883,7 +42883,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "e9589b71-36a4-4ba5-8664-288576523d1a")
-		(at 270.38 60.03 90)
+		(at 381.635 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D28"
@@ -43159,7 +43159,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "ef7d92e9-d48c-4340-a515-c79427fb8e8b")
-		(at 103.6925 79.08 90)
+		(at 214.9475 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D34"
@@ -43435,7 +43435,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "efc0bb56-bde4-49f7-853b-e65972ba58b6")
-		(at 165.605 40.98 90)
+		(at 276.86 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D8"
@@ -43711,7 +43711,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "f0f6a835-f6b4-4e0a-aea8-e481ee1bdb9c")
-		(at 70.355 40.98 90)
+		(at 181.61 178.29 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D3"
@@ -43987,7 +43987,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "f366d815-389e-4a5b-a0c9-7b3c3decbca8")
-		(at 84.6425 79.08 90)
+		(at 195.8975 216.39 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D33"
@@ -44263,7 +44263,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "f52b2d2d-8756-4779-95d7-35b9c8527a2a")
-		(at 189.4175 98.13 90)
+		(at 300.6725 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D52"
@@ -44539,7 +44539,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "fb3ba7d5-7d25-43e4-a90e-2a83f11457da")
-		(at 113.2175 98.13 90)
+		(at 224.4725 235.44 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D48"
@@ -44815,7 +44815,7 @@
 	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "B.Cu")
 		(uuid "fcf7dc84-9416-424b-9002-8ee3042e484f")
-		(at 318.005 60.03 90)
+		(at 429.26 197.34 90)
 		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 		(tags "SOD-323F")
 		(property "Reference" "D30"
@@ -45089,8 +45089,8 @@
 		)
 	)
 	(gr_line
-		(start 15.175 126.615)
-		(end -7.35 126.615)
+		(start 126.43 263.925)
+		(end 103.905 263.925)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45099,8 +45099,8 @@
 		(uuid "2bfc871c-af2c-4e79-93d7-de517d65852e")
 	)
 	(gr_line
-		(start 266.97 25.95)
-		(end 266.97 25.95)
+		(start 378.225 163.26)
+		(end 378.225 163.26)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45109,8 +45109,8 @@
 		(uuid "532ea912-7653-4ffc-a4fd-7a94fb1a77d9")
 	)
 	(gr_line
-		(start -7.35 126.615)
-		(end -7.223 67.1536)
+		(start 103.905 263.925)
+		(end 104.032 204.4636)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45119,8 +45119,8 @@
 		(uuid "8939a796-0045-4acf-8e52-1a0a6cf8a7ef")
 	)
 	(gr_line
-		(start 15.4592 24.2022)
-		(end 243.856 24.1006)
+		(start 126.7142 161.5122)
+		(end 355.111 161.4106)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45129,8 +45129,8 @@
 		(uuid "89759010-6b75-470d-acf5-62ec00393546")
 	)
 	(gr_line
-		(start 324.925 25.95)
-		(end 324.925 126.615)
+		(start 436.18 163.26)
+		(end 436.18 263.925)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45139,8 +45139,8 @@
 		(uuid "a0e80ad5-01ac-444c-bb5e-cc8a018a2a36")
 	)
 	(gr_line
-		(start -7.223 67.1536)
-		(end -7.1976 24.2022)
+		(start 104.032 204.4636)
+		(end 104.0574 161.5122)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45149,8 +45149,8 @@
 		(uuid "b97ce82b-3af3-4cdf-9e3c-6fc850ccfb98")
 	)
 	(gr_line
-		(start 324.925 126.615)
-		(end 15.175 126.615)
+		(start 436.18 263.925)
+		(end 126.43 263.925)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45159,8 +45159,8 @@
 		(uuid "bca8d914-746a-487d-bb53-a5d97a40c3cc")
 	)
 	(gr_line
-		(start -7.1976 24.2022)
-		(end 15.4592 24.2022)
+		(start 104.0574 161.5122)
+		(end 126.7142 161.5122)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45169,8 +45169,8 @@
 		(uuid "dba3ee90-828f-4d0f-9095-84901c05d2af")
 	)
 	(gr_line
-		(start 324.9328 0.758)
-		(end 324.925 25.95)
+		(start 436.1878 138.068)
+		(end 436.18 163.26)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45179,8 +45179,8 @@
 		(uuid "dc50b9c6-27a9-42d8-9a0d-962d04e778d4")
 	)
 	(gr_line
-		(start 243.856 0.7326)
-		(end 324.9328 0.758)
+		(start 355.111 138.0426)
+		(end 436.1878 138.068)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45189,8 +45189,8 @@
 		(uuid "e9371737-9634-4c78-aeda-d231451a5db7")
 	)
 	(gr_line
-		(start 243.856 24.1006)
-		(end 243.856 0.7326)
+		(start 355.111 161.4106)
+		(end 355.111 138.0426)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -45199,7 +45199,7 @@
 		(uuid "f459aaa9-2ad8-4c7e-8434-05c9d6f79d73")
 	)
 	(gr_text "C7"
-		(at 5.604 57.908 0)
+		(at 116.859 195.218 0)
 		(layer "F.SilkS")
 		(uuid "00086693-bd97-421f-81cd-ef8fa2750a74")
 		(effects
@@ -45210,7 +45210,7 @@
 		)
 	)
 	(gr_text "B2"
-		(at 11.065 57.019 0)
+		(at 122.32 194.329 0)
 		(layer "F.SilkS")
 		(uuid "02e90bb1-3064-4619-a4cf-6a666dd402df")
 		(effects
@@ -45221,7 +45221,7 @@
 		)
 	)
 	(gr_text "D4"
-		(at 0.016 46.859 0)
+		(at 111.271 184.169 0)
 		(layer "F.SilkS")
 		(uuid "07a1df5f-4a96-4a4e-add4-fecf264349ad")
 		(effects
@@ -45233,7 +45233,7 @@
 		)
 	)
 	(gr_text "D7"
-		(at 0.27 51.939 0)
+		(at 111.525 189.249 0)
 		(layer "F.SilkS")
 		(uuid "0d8c5934-561f-48ff-803f-880dd2881c80")
 		(effects
@@ -45245,7 +45245,7 @@
 		)
 	)
 	(gr_text "B6"
-		(at 12.081 58.289 45)
+		(at 123.336 195.599 45)
 		(layer "F.SilkS")
 		(uuid "0df9c6e4-a197-4f32-8483-c96d59d1712f")
 		(effects
@@ -45256,7 +45256,7 @@
 		)
 	)
 	(gr_text "B4"
-		(at 0.27 57.019 0)
+		(at 111.525 194.329 0)
 		(layer "F.SilkS")
 		(uuid "33a79d05-d6d6-4d77-b28b-cfd4050e4c0e")
 		(effects
@@ -45268,7 +45268,7 @@
 		)
 	)
 	(gr_text "D1"
-		(at 0.27 41.779 0)
+		(at 111.525 179.089 0)
 		(layer "F.SilkS")
 		(uuid "4bab9f35-7436-4348-8e07-bbf2c80f6d96")
 		(effects
@@ -45280,7 +45280,7 @@
 		)
 	)
 	(gr_text "F6"
-		(at 11.192 46.732 0)
+		(at 122.447 184.042 0)
 		(layer "F.SilkS")
 		(uuid "52beed4f-82b7-41dc-8395-49506b9d5c55")
 		(effects
@@ -45291,7 +45291,7 @@
 		)
 	)
 	(gr_text "D2"
-		(at 0.27 34.159 0)
+		(at 111.525 171.469 0)
 		(layer "F.SilkS")
 		(uuid "678a9040-d843-4ded-be00-522de301bb04")
 		(effects
@@ -45303,7 +45303,7 @@
 		)
 	)
 	(gr_text "B0"
-		(at 11.065 31.492 0)
+		(at 122.32 168.802 0)
 		(layer "F.SilkS")
 		(uuid "67dd26b5-9093-4b8c-8188-ddce42011728")
 		(effects
@@ -45314,7 +45314,7 @@
 		)
 	)
 	(gr_text "F1"
-		(at 8.144 57.908 0)
+		(at 119.399 195.218 0)
 		(layer "F.SilkS")
 		(uuid "7a8e64d8-8aba-4758-b3af-bb0755a1d7e5")
 		(effects
@@ -45325,7 +45325,7 @@
 		)
 	)
 	(gr_text "B7"
-		(at 1.032 58.035 0)
+		(at 112.287 195.345 0)
 		(layer "F.SilkS")
 		(uuid "7f818b0f-e41d-4f45-8f23-7747746955aa")
 		(effects
@@ -45336,7 +45336,7 @@
 		)
 	)
 	(gr_text "F0"
-		(at 10.176 58.035 0)
+		(at 121.431 195.345 0)
 		(layer "F.SilkS")
 		(uuid "82a4aea2-fd95-4111-9e0f-fb52cc118195")
 		(effects
@@ -45347,7 +45347,7 @@
 		)
 	)
 	(gr_text "F7"
-		(at 11.065 49.272 0)
+		(at 122.32 186.582 0)
 		(layer "F.SilkS")
 		(uuid "842ebe23-4509-4354-a5e5-95a23235286f")
 		(effects
@@ -45358,7 +45358,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 0.27 39.239 0)
+		(at 111.525 176.549 0)
 		(layer "F.SilkS")
 		(uuid "95d34ea4-0307-4319-8289-387cb5d38e75")
 		(effects
@@ -45369,7 +45369,7 @@
 		)
 	)
 	(gr_text "F5"
-		(at 11.192 44.192 0)
+		(at 122.447 181.502 0)
 		(layer "F.SilkS")
 		(uuid "a76d18a4-99cc-4085-82a7-9c8a289e34cd")
 		(effects
@@ -45380,7 +45380,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 0.27 36.699 0)
+		(at 111.525 174.009 0)
 		(layer "F.SilkS")
 		(uuid "a9be5e37-4422-4614-9b9c-1e63bceb11c1")
 		(effects
@@ -45391,7 +45391,7 @@
 		)
 	)
 	(gr_text "F4"
-		(at 11.192 41.652 0)
+		(at 122.447 178.962 0)
 		(layer "F.SilkS")
 		(uuid "ae75828e-9f79-4007-87d3-54666550ff7f")
 		(effects
@@ -45402,7 +45402,7 @@
 		)
 	)
 	(gr_text "B3"
-		(at 11.065 54.352 0)
+		(at 122.32 191.662 0)
 		(layer "F.SilkS")
 		(uuid "b354862d-e52c-47af-acb4-329c4737b7cf")
 		(effects
@@ -45413,7 +45413,7 @@
 		)
 	)
 	(gr_text "D5"
-		(at 3.064 57.908 0)
+		(at 114.319 195.218 0)
 		(layer "F.SilkS")
 		(uuid "b790d021-a536-4edf-b232-a6925a1f1d89")
 		(effects
@@ -45424,7 +45424,7 @@
 		)
 	)
 	(gr_text "E6"
-		(at 0.016 54.479 0)
+		(at 111.271 191.789 0)
 		(layer "F.SilkS")
 		(uuid "b965de2e-3865-477a-867e-5299522771fb")
 		(effects
@@ -45436,7 +45436,7 @@
 		)
 	)
 	(gr_text "C6"
-		(at 0.016 49.399 0)
+		(at 111.271 186.709 0)
 		(layer "F.SilkS")
 		(uuid "c0df7b9a-8495-46a1-882f-29e4ff0fd119")
 		(effects
@@ -45448,7 +45448,7 @@
 		)
 	)
 	(gr_text "B5"
-		(at -0.746 58.289 315)
+		(at 110.509 195.599 315)
 		(layer "F.SilkS")
 		(uuid "d14e2023-b68b-4c47-990e-c89f50cd6e19")
 		(effects
@@ -45459,7 +45459,7 @@
 		)
 	)
 	(gr_text "ST"
-		(at 11.319 36.699 0)
+		(at 122.574 174.009 0)
 		(layer "F.SilkS")
 		(uuid "d16fdcac-2e97-4839-9304-53bcc083b80f")
 		(effects
@@ -45470,7 +45470,7 @@
 		)
 	)
 	(gr_text "B1"
-		(at 11.065 51.939 0)
+		(at 122.32 189.249 0)
 		(layer "F.SilkS")
 		(uuid "d3dffa0e-9d46-4a38-9cdb-edd7b58b96f4")
 		(effects
@@ -45481,7 +45481,7 @@
 		)
 	)
 	(gr_text "VCC"
-		(at 10.938 39.239 0)
+		(at 122.193 176.549 0)
 		(layer "F.SilkS")
 		(uuid "d826f54f-8c63-4461-994a-039fa2787162")
 		(effects
@@ -45492,7 +45492,7 @@
 		)
 	)
 	(gr_text "D0"
-		(at 0.016 44.319 0)
+		(at 111.271 181.629 0)
 		(layer "F.SilkS")
 		(uuid "e12eb456-83c6-4e5f-880b-de9fe31bdff8")
 		(effects
@@ -45504,7 +45504,7 @@
 		)
 	)
 	(gr_text "LED_PAD"
-		(at 25.67 125.345 0)
+		(at 136.925 262.655 0)
 		(layer "F.SilkS")
 		(uuid "e2b7c774-6a1a-4023-9b90-639c21463305")
 		(effects
@@ -45515,7 +45515,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 10.938 34.159 0)
+		(at 122.193 171.469 0)
 		(layer "F.SilkS")
 		(uuid "faba7da5-8d26-4460-b54a-b106998f434d")
 		(effects
@@ -45524,6 +45524,1174 @@
 				(thickness 0.15)
 			)
 		)
+	)
+	(segment
+		(start 140.97 174.65)
+		(end 140.97 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "871d0f5c-d4d0-4b78-a659-fa10ea7af397")
+	)
+	(segment
+		(start 143.51 177.19)
+		(end 140.97 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "c5a9a7fa-9d04-4935-a36e-ae2940b2c28e")
+	)
+	(segment
+		(start 314.96 177.19)
+		(end 312.42 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "0a34af2c-e8ee-4f1e-96ba-a65bbfd928d7")
+	)
+	(segment
+		(start 312.42 174.65)
+		(end 312.42 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "79faf780-45f8-4cf8-899e-87ac6aafb3d4")
+	)
+	(segment
+		(start 334.01 177.19)
+		(end 331.47 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "1f2e7e8d-5b9f-4da5-9ef6-6eabd802ba4a")
+	)
+	(segment
+		(start 331.47 174.65)
+		(end 331.47 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "90ff86b0-22c4-4695-af23-a65ca2abc97d")
+	)
+	(segment
+		(start 369.57 174.65)
+		(end 369.57 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "7a6463f2-a0c8-471f-aa54-6299983bd03e")
+	)
+	(segment
+		(start 372.11 177.19)
+		(end 369.57 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "bd5d254e-1a87-481a-969c-7e00b16d6e40")
+	)
+	(segment
+		(start 398.145 174.476598)
+		(end 398.145 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 6)
+		(uuid "0fb48015-f49d-416b-acc5-658904324c06")
+	)
+	(segment
+		(start 400.685 177.19)
+		(end 400.685 177.016598)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 6)
+		(uuid "4d9ad9bb-ae19-4248-8ec6-ddad82dd6c79")
+	)
+	(segment
+		(start 400.685 177.016598)
+		(end 398.145 174.476598)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 6)
+		(uuid "a83d0c3e-a1e4-4336-8f7b-f30d2f5c5fda")
+	)
+	(segment
+		(start 429.26 177.19)
+		(end 431.495 174.955)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 7)
+		(uuid "613e92c1-b534-44d8-973b-ddc2cb430e6d")
+	)
+	(segment
+		(start 431.495 174.955)
+		(end 426.72 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 7)
+		(uuid "c29a44ff-42bb-4569-b3b7-d04d84dd0e06")
+	)
+	(segment
+		(start 145.7325 193.7)
+		(end 145.7325 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 8)
+		(uuid "088e4ae8-71ea-4553-98b9-cce33d248f34")
+	)
+	(segment
+		(start 148.2725 196.24)
+		(end 145.7325 193.7)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 8)
+		(uuid "f21cbf1d-25db-499d-9646-b8ef948753f5")
+	)
+	(segment
+		(start 169.545 193.7)
+		(end 169.545 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "6bbce8be-ab51-4d4e-aaa6-a0114d063bd8")
+	)
+	(segment
+		(start 172.085 196.24)
+		(end 169.545 193.7)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "b7190eab-19e8-424e-a2de-1555869fbc45")
+	)
+	(segment
+		(start 191.135 196.24)
+		(end 188.595 193.7)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 10)
+		(uuid "7f4412d4-b95d-4f46-8993-8dc5e38a71d4")
+	)
+	(segment
+		(start 188.595 193.7)
+		(end 188.595 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 10)
+		(uuid "c3c0573a-133a-45e1-ae43-22ebd7350ed6")
+	)
+	(segment
+		(start 207.645 193.7)
+		(end 207.645 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 11)
+		(uuid "17ac81a2-be52-4ae8-9a56-9a30bee024ff")
+	)
+	(segment
+		(start 210.185 196.24)
+		(end 207.645 193.7)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 11)
+		(uuid "64922a31-b9f3-4ae9-b31b-be8e4178d410")
+	)
+	(segment
+		(start 162.56 177.19)
+		(end 160.02 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 12)
+		(uuid "5620e144-e70d-4bfc-9324-d58b0d29f84d")
+	)
+	(segment
+		(start 160.02 174.65)
+		(end 160.02 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 12)
+		(uuid "9fa0d657-6b9e-48b3-ba5d-eaf055925a34")
+	)
+	(segment
+		(start 229.235 196.24)
+		(end 226.695 193.7)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 13)
+		(uuid "1b622e1e-d98e-4e97-a16e-8c26fe129d84")
+	)
+	(segment
+		(start 226.695 193.7)
+		(end 226.695 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 13)
+		(uuid "e5d62049-c805-4e26-8823-a57aec9bc6f3")
+	)
+	(segment
+		(start 245.745 193.7)
+		(end 245.745 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 14)
+		(uuid "29a44f5f-136f-4101-87a3-6c05a3aafe4c")
+	)
+	(segment
+		(start 248.285 196.24)
+		(end 245.745 193.7)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 14)
+		(uuid "6aa73d23-7431-45c2-82d9-8be00493ef3a")
+	)
+	(segment
+		(start 267.335 196.24)
+		(end 264.795 193.7)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "257d17f2-db62-421f-8dcd-a75e6bb03b9d")
+	)
+	(segment
+		(start 264.795 193.7)
+		(end 264.795 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "938548c0-c77f-4955-b2c1-06d37fce2c3c")
+	)
+	(segment
+		(start 287.61 196.24)
+		(end 287.61 192.995)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 16)
+		(uuid "794329a9-75ee-4d2a-8561-9474e518d840")
+	)
+	(segment
+		(start 286.385 196.24)
+		(end 287.61 196.24)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 16)
+		(uuid "9877d222-5a93-48e6-af67-97239c4f8970")
+	)
+	(segment
+		(start 287.61 192.995)
+		(end 283.845 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 16)
+		(uuid "c4dcd7cd-d5cf-4cbc-82de-d415d7164b2b")
+	)
+	(segment
+		(start 307.34 194.335)
+		(end 307.34 193.675)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 17)
+		(uuid "1ee11f69-7d23-440a-85a5-3c141cb03aa6")
+	)
+	(segment
+		(start 305.435 196.24)
+		(end 307.34 194.335)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 17)
+		(uuid "2029984a-f42b-4aa9-ae15-9b918684a590")
+	)
+	(segment
+		(start 307.34 193.675)
+		(end 302.895 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 17)
+		(uuid "99aaf23b-ea79-49ef-952a-d5accb93c586")
+	)
+	(segment
+		(start 325.71 192.995)
+		(end 321.945 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 18)
+		(uuid "4bd7c49a-6a22-409a-944c-2f752f619bf7")
+	)
+	(segment
+		(start 324.485 196.24)
+		(end 325.71 195.015)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 18)
+		(uuid "b5348dc8-0a21-406a-893e-65775c1b8ee9")
+	)
+	(segment
+		(start 325.71 195.015)
+		(end 325.71 192.995)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 18)
+		(uuid "e674bd90-858d-4630-96f0-c8ff10dddfe7")
+	)
+	(segment
+		(start 344.76 192.995)
+		(end 340.995 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 19)
+		(uuid "390ce042-5d39-4ccf-a922-d4c86ca3958b")
+	)
+	(segment
+		(start 343.535 196.24)
+		(end 344.78 196.24)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 19)
+		(uuid "b543812d-376e-43e0-9176-4353e62d5005")
+	)
+	(segment
+		(start 344.78 196.24)
+		(end 344.76 196.22)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 19)
+		(uuid "dfb66bac-bbda-48a5-a156-6b9a94a239e1")
+	)
+	(segment
+		(start 344.76 196.22)
+		(end 344.76 192.995)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 19)
+		(uuid "f0d258f5-8128-4bc8-8a4a-fc63473a4e3c")
+	)
+	(segment
+		(start 363.81 195.015)
+		(end 363.81 192.995)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 20)
+		(uuid "24a8b3e3-1b54-4bea-b741-08104abf57f2")
+	)
+	(segment
+		(start 363.81 192.995)
+		(end 360.045 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 20)
+		(uuid "5f797b7c-3d76-49d2-a096-3705d0f94549")
+	)
+	(segment
+		(start 362.585 196.24)
+		(end 363.81 195.015)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 20)
+		(uuid "a72ca5e1-6de4-4095-a0fc-cc8fa895f1a6")
+	)
+	(segment
+		(start 383.54 194.532588)
+		(end 383.54 193.04)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 21)
+		(uuid "1b32acd6-ce94-4ac5-9998-fda103662108")
+	)
+	(segment
+		(start 381.635 196.24)
+		(end 381.832588 196.24)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 21)
+		(uuid "22d0dc2f-be30-4a26-8e77-1022f8d5bae8")
+	)
+	(segment
+		(start 381.832588 196.24)
+		(end 383.54 194.532588)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 21)
+		(uuid "4e3eca1d-0f71-4e60-93d9-f17589709ebe")
+	)
+	(segment
+		(start 379.73 189.23)
+		(end 379.095 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 21)
+		(uuid "61705aae-ed00-47c3-94ce-18768a835f8c")
+	)
+	(segment
+		(start 383.54 193.04)
+		(end 379.73 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 21)
+		(uuid "a5ecbd0c-1593-4fac-b3ce-66acfceb8229")
+	)
+	(segment
+		(start 406.6725 192.995)
+		(end 402.9075 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 22)
+		(uuid "3228e931-a786-45b8-a002-dd46c2016f0c")
+	)
+	(segment
+		(start 406.6725 195.015)
+		(end 406.6725 192.995)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 22)
+		(uuid "a1ce0005-d4f5-4bb3-a281-68fa4d954483")
+	)
+	(segment
+		(start 405.4475 196.24)
+		(end 406.6725 195.015)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 22)
+		(uuid "fc850368-b575-4015-b7c9-4dc381bdb1db")
+	)
+	(segment
+		(start 179.07 174.65)
+		(end 179.07 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 23)
+		(uuid "36085296-ed84-4d7a-9a12-e48681aa91b1")
+	)
+	(segment
+		(start 181.61 177.19)
+		(end 179.07 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 23)
+		(uuid "469f73e6-38a4-4da5-b30b-bc8fbfa9f02b")
+	)
+	(segment
+		(start 431.495 194.005)
+		(end 426.72 189.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 24)
+		(uuid "4b835f2c-e3e6-4db1-960c-513b17d986fb")
+	)
+	(segment
+		(start 429.26 196.24)
+		(end 431.495 194.005)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 24)
+		(uuid "cc47342c-1f94-4549-ab4d-2bb68c84b137")
+	)
+	(segment
+		(start 148.11375 212.75)
+		(end 148.11375 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 25)
+		(uuid "2cf91d2c-3bf1-4832-83f6-c31828e90e5c")
+	)
+	(segment
+		(start 150.65375 215.29)
+		(end 148.11375 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 25)
+		(uuid "fe6ca249-3b61-4427-83c8-08e685a89f6f")
+	)
+	(segment
+		(start 176.8475 215.29)
+		(end 174.3075 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 26)
+		(uuid "365cf43e-7e56-414a-ae98-a46bed91810f")
+	)
+	(segment
+		(start 174.3075 212.75)
+		(end 174.3075 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 26)
+		(uuid "3aa04d6d-dd88-4e5b-8fb7-e241c7b77f1c")
+	)
+	(segment
+		(start 193.3575 212.75)
+		(end 193.3575 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 27)
+		(uuid "1d3aa19a-cd14-4e1d-9c17-29529dba6b56")
+	)
+	(segment
+		(start 195.8975 215.29)
+		(end 193.3575 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 27)
+		(uuid "406b8afe-9c47-44eb-999f-ff1f1dc32d77")
+	)
+	(segment
+		(start 214.9475 215.29)
+		(end 212.4075 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 28)
+		(uuid "3e381c0a-732c-44d4-8410-21487cf1f13f")
+	)
+	(segment
+		(start 212.4075 212.75)
+		(end 212.4075 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 28)
+		(uuid "7fedb9d1-2b02-411c-be82-0c57951a690d")
+	)
+	(segment
+		(start 233.9975 215.29)
+		(end 231.4575 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 29)
+		(uuid "6b1964fe-7f9f-4809-8246-a657102caf58")
+	)
+	(segment
+		(start 231.4575 212.75)
+		(end 231.4575 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 29)
+		(uuid "b13a2fc0-ed45-4d46-9b2c-1aafb7abc04d")
+	)
+	(segment
+		(start 253.0475 215.29)
+		(end 250.5075 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 30)
+		(uuid "685f10ef-5115-4af1-a2d3-344a456e8dec")
+	)
+	(segment
+		(start 250.5075 212.75)
+		(end 250.5075 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 30)
+		(uuid "dc28eca9-2dce-43c8-9a84-a30b3f6e8de2")
+	)
+	(segment
+		(start 272.0975 215.29)
+		(end 269.5575 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 31)
+		(uuid "194f0118-c136-4aae-b1d2-c0c7eba6d22a")
+	)
+	(segment
+		(start 269.5575 212.75)
+		(end 269.5575 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 31)
+		(uuid "477d8afe-0d3a-4404-a047-3e04b003ebe9")
+	)
+	(segment
+		(start 291.1475 215.29)
+		(end 288.4175 212.56)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 32)
+		(uuid "2f02b957-0d7f-4510-9551-505d47038e5f")
+	)
+	(segment
+		(start 288.4175 208.47)
+		(end 288.6075 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 32)
+		(uuid "c6d88774-ff76-4337-adc6-fa723a7f1df5")
+	)
+	(segment
+		(start 288.4175 212.56)
+		(end 288.4175 208.47)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 32)
+		(uuid "ffcd7d07-1168-4ba1-82dc-5f2571f9cb75")
+	)
+	(segment
+		(start 310.1975 215.29)
+		(end 307.6575 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 33)
+		(uuid "113bcfb0-4d35-4c12-a9da-697558a51ebe")
+	)
+	(segment
+		(start 307.6575 212.75)
+		(end 307.6575 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 33)
+		(uuid "93cda034-02a1-4a40-bd25-de788deebcb5")
+	)
+	(segment
+		(start 200.66 177.19)
+		(end 198.12 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 34)
+		(uuid "3df5a86a-0f59-47ff-a094-5518323dcdd0")
+	)
+	(segment
+		(start 198.12 174.65)
+		(end 198.12 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 34)
+		(uuid "63d0a967-5274-430c-947c-1c982fcfbc33")
+	)
+	(segment
+		(start 326.7075 212.75)
+		(end 326.7075 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 35)
+		(uuid "3b20fc73-7132-4185-ba3b-fab30522cfdf")
+	)
+	(segment
+		(start 329.2475 215.29)
+		(end 326.7075 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 35)
+		(uuid "99c8f42a-e178-4c56-a90e-3d77a1d1f281")
+	)
+	(segment
+		(start 348.2975 215.29)
+		(end 345.7575 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 36)
+		(uuid "99e229f0-5bef-4dd8-93f9-9e21b07092db")
+	)
+	(segment
+		(start 345.7575 212.75)
+		(end 345.7575 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 36)
+		(uuid "f6ce5282-ee81-4bc4-950a-9eea59a92efe")
+	)
+	(segment
+		(start 364.8075 212.75)
+		(end 364.8075 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 37)
+		(uuid "481a32d8-b705-4f09-9e25-d0cac93d6c1f")
+	)
+	(segment
+		(start 367.3475 215.29)
+		(end 364.8075 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 37)
+		(uuid "7e96a1f3-a10d-4b74-ae71-827039bab8ff")
+	)
+	(segment
+		(start 395.76375 212.75)
+		(end 395.76375 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 38)
+		(uuid "9762b304-0328-41e6-9be7-8ea22e266205")
+	)
+	(segment
+		(start 398.30375 215.29)
+		(end 395.76375 212.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 38)
+		(uuid "e2305a04-60a1-4ab4-b09c-e85712ff10b3")
+	)
+	(segment
+		(start 429.26 215.116598)
+		(end 426.72 212.576598)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 39)
+		(uuid "421cbf3a-f41a-4e70-a04b-9c181b05288a")
+	)
+	(segment
+		(start 426.72 212.576598)
+		(end 426.72 208.28)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 39)
+		(uuid "6b7cca28-d9f7-443d-847c-4e2786809d6e")
+	)
+	(segment
+		(start 429.26 215.29)
+		(end 429.26 215.116598)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 39)
+		(uuid "9211f9af-4c91-40a0-8fd6-378f86efd8c8")
+	)
+	(segment
+		(start 152.87625 231.8)
+		(end 152.87625 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 40)
+		(uuid "4671f0f6-3bdc-4400-bd97-d6613d585f8d")
+	)
+	(segment
+		(start 155.41625 234.34)
+		(end 152.87625 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 40)
+		(uuid "63ec71cd-27e5-4b9a-b350-5433cde485ef")
+	)
+	(segment
+		(start 183.8325 231.8)
+		(end 183.8325 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 41)
+		(uuid "4cb440cb-7290-4ed0-be7d-dda8f3d8fc3e")
+	)
+	(segment
+		(start 186.3725 234.34)
+		(end 183.8325 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 41)
+		(uuid "c357859c-0cc8-47b1-a367-fec969147b63")
+	)
+	(segment
+		(start 202.8825 231.8)
+		(end 202.8825 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 42)
+		(uuid "36b7b04a-3541-4828-8908-2564c0b350f8")
+	)
+	(segment
+		(start 205.4225 234.34)
+		(end 202.8825 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 42)
+		(uuid "5e2526fb-78bb-4c98-8ee2-2cbf44911435")
+	)
+	(segment
+		(start 224.4725 234.34)
+		(end 221.9325 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 43)
+		(uuid "10e850ef-d5d0-41f6-9cbf-2ef1b9cb1651")
+	)
+	(segment
+		(start 221.9325 231.8)
+		(end 221.9325 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 43)
+		(uuid "2daf90c8-6b52-4d8d-9271-09256612aec5")
+	)
+	(segment
+		(start 240.9825 231.8)
+		(end 240.9825 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 44)
+		(uuid "a778a4e6-c43e-41f7-9452-f44826487a9b")
+	)
+	(segment
+		(start 243.5225 234.34)
+		(end 240.9825 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 44)
+		(uuid "ca1331a1-a84f-455a-939f-64abfe7cad63")
+	)
+	(segment
+		(start 219.71 177.19)
+		(end 217.17 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 45)
+		(uuid "bef91fe1-2441-4ff9-bdf6-eaacc5e10697")
+	)
+	(segment
+		(start 217.17 174.65)
+		(end 217.17 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 45)
+		(uuid "f9bb8f11-710d-41fc-8f03-adbde8e0ce9c")
+	)
+	(segment
+		(start 262.5725 234.34)
+		(end 260.0325 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 46)
+		(uuid "2d13e813-9f58-4f01-b800-c84e71baec77")
+	)
+	(segment
+		(start 260.0325 231.8)
+		(end 260.0325 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 46)
+		(uuid "d3918a0a-6ef2-4664-a761-ad0ac920cf09")
+	)
+	(segment
+		(start 281.6225 234.34)
+		(end 279.0825 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 47)
+		(uuid "4e3aa92e-3206-45e9-b082-bf24aec42140")
+	)
+	(segment
+		(start 279.0825 231.8)
+		(end 279.0825 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 47)
+		(uuid "a3374e84-ba78-462a-8931-28acc4a86eaa")
+	)
+	(segment
+		(start 300.6725 234.34)
+		(end 298.1325 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 48)
+		(uuid "617199c4-d171-49c6-8978-1e9b8aa207f9")
+	)
+	(segment
+		(start 298.1325 231.8)
+		(end 298.1325 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 48)
+		(uuid "90a86dea-9ecd-4f5c-9d44-76ab595acbf0")
+	)
+	(segment
+		(start 317.1825 231.8)
+		(end 317.1825 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 49)
+		(uuid "42375397-7ea3-462b-8431-74c4d48eaaa0")
+	)
+	(segment
+		(start 319.7225 234.34)
+		(end 317.1825 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 49)
+		(uuid "ff5bf427-2b45-4d9c-b013-2a241a451862")
+	)
+	(segment
+		(start 338.7725 234.34)
+		(end 336.2325 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 50)
+		(uuid "313140c1-ab0a-4c02-9df7-564439ff4792")
+	)
+	(segment
+		(start 336.2325 231.8)
+		(end 336.2325 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 50)
+		(uuid "41d0adaf-c160-45eb-8002-5e87f9f69b3b")
+	)
+	(segment
+		(start 357.8225 234.34)
+		(end 355.2825 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 51)
+		(uuid "99942b75-90d3-4cb9-bb8e-ecda10d42fc0")
+	)
+	(segment
+		(start 355.2825 231.8)
+		(end 355.2825 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 51)
+		(uuid "d8cd4407-7a51-4178-b93e-4b6c70ccdbf5")
+	)
+	(segment
+		(start 376.8725 234.34)
+		(end 374.3325 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 52)
+		(uuid "96be8146-aab1-4f84-af57-e15225fe3647")
+	)
+	(segment
+		(start 374.3325 231.8)
+		(end 374.3325 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 52)
+		(uuid "e2c8ed69-9a76-4954-a8ef-3f0e7ab2f2d5")
+	)
+	(segment
+		(start 407.67 231.8)
+		(end 407.67 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 53)
+		(uuid "3de7918e-023a-46e9-acf2-bb643c71ef9d")
+	)
+	(segment
+		(start 410.21 234.34)
+		(end 407.67 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 53)
+		(uuid "784e44ee-013a-4169-93ab-12067c80a736")
+	)
+	(segment
+		(start 429.26 234.34)
+		(end 426.72 231.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 54)
+		(uuid "5e5cad05-3fbd-4aff-a20c-75faa568acfb")
+	)
+	(segment
+		(start 426.72 231.8)
+		(end 426.72 227.33)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 54)
+		(uuid "c2ff44a3-1ddf-423a-b665-b53a1f0cc2bc")
+	)
+	(segment
+		(start 143.35125 250.85)
+		(end 143.35125 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 55)
+		(uuid "1d327c00-b7a3-459a-93d9-f1ee6764c583")
+	)
+	(segment
+		(start 145.89125 253.39)
+		(end 143.35125 250.85)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 55)
+		(uuid "cab3301a-d1ec-45c2-becd-e6513ac290dc")
+	)
+	(segment
+		(start 238.76 177.19)
+		(end 236.22 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 56)
+		(uuid "6f1e0b4e-5a36-485d-badb-e99468c55c27")
+	)
+	(segment
+		(start 236.22 174.65)
+		(end 236.22 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 56)
+		(uuid "a8e1c09b-679a-45eb-9eea-3106c0fcd782")
+	)
+	(segment
+		(start 167.16375 250.85)
+		(end 167.16375 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 57)
+		(uuid "0f505238-8e55-4721-9ad8-91d9215b9727")
+	)
+	(segment
+		(start 169.70375 253.39)
+		(end 167.16375 250.85)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 57)
+		(uuid "4b803505-c0ac-4319-b51a-62433bda2c4d")
+	)
+	(segment
+		(start 193.51625 253.39)
+		(end 190.97625 250.85)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 58)
+		(uuid "56bbe268-c026-4bc3-b274-077336b4894f")
+	)
+	(segment
+		(start 190.97625 250.85)
+		(end 190.97625 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 58)
+		(uuid "9dd45f3f-dd4e-48e4-afc7-240f06ff3896")
+	)
+	(segment
+		(start 275.405 253.485)
+		(end 272.815 250.895)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 59)
+		(uuid "145f5ecf-1690-4582-be66-345f8e5e1727")
+	)
+	(segment
+		(start 272.815 250.895)
+		(end 272.815 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 59)
+		(uuid "48761915-2b35-4d60-858e-e5b3910c20f8")
+	)
+	(segment
+		(start 350.52 250.85)
+		(end 350.52 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 60)
+		(uuid "08e49c46-1e9a-4105-93a5-6d92a6f6d7ed")
+	)
+	(segment
+		(start 353.06 253.39)
+		(end 350.52 250.85)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 60)
+		(uuid "ec4f3154-35e6-4d44-b3a1-84f8ef731b48")
+	)
+	(segment
+		(start 372.11 253.39)
+		(end 369.57 250.85)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 61)
+		(uuid "43361254-a42c-4bec-9354-2dd90ade05ba")
+	)
+	(segment
+		(start 369.57 250.85)
+		(end 369.57 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 61)
+		(uuid "5139b96d-0b5e-4ea7-9821-edc7b82228cb")
+	)
+	(segment
+		(start 388.62 250.85)
+		(end 388.62 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 62)
+		(uuid "2e4f0e2b-b99b-4041-a8a5-3c68a1b738df")
+	)
+	(segment
+		(start 391.16 253.39)
+		(end 388.62 250.85)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 62)
+		(uuid "ff768ccb-b669-4b15-8af8-bc27c258fb92")
+	)
+	(segment
+		(start 407.67 250.85)
+		(end 407.67 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 63)
+		(uuid "6a30152a-47fb-4d6e-9502-509dd49a02ef")
+	)
+	(segment
+		(start 410.21 253.39)
+		(end 407.67 250.85)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 63)
+		(uuid "fa960b4d-d6f8-439c-bf02-e8285f861e89")
+	)
+	(segment
+		(start 431.8 251.047588)
+		(end 431.8 250.652412)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 64)
+		(uuid "230355c6-6c26-42d8-ae39-f93ede4ee854")
+	)
+	(segment
+		(start 431.8 250.652412)
+		(end 427.527588 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 64)
+		(uuid "7e0e4d25-3cd4-413b-b177-896480995ed0")
+	)
+	(segment
+		(start 429.457588 253.39)
+		(end 431.8 251.047588)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 64)
+		(uuid "c0c9192c-56d7-4ee3-be98-a143f59e0782")
+	)
+	(segment
+		(start 429.26 253.39)
+		(end 429.457588 253.39)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 64)
+		(uuid "c6027961-9a68-4c17-a852-34df716845b5")
+	)
+	(segment
+		(start 427.527588 246.38)
+		(end 426.72 246.38)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 64)
+		(uuid "d46aff25-d1b1-4af1-b6b3-689b2d92c069")
+	)
+	(segment
+		(start 257.81 177.19)
+		(end 255.27 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 65)
+		(uuid "2d1f1403-cd3f-439c-99a0-37de99f87e0b")
+	)
+	(segment
+		(start 255.27 174.65)
+		(end 255.27 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 65)
+		(uuid "e786f2e9-ca0b-44dc-aa7c-37c0e07044a9")
+	)
+	(segment
+		(start 274.32 174.65)
+		(end 274.32 170.18)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 66)
+		(uuid "5a4190dd-6621-48c6-9767-9af76013471a")
+	)
+	(segment
+		(start 276.86 177.19)
+		(end 274.32 174.65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 66)
+		(uuid "d939e340-dd9f-4767-8a57-fcaa99546ed0")
 	)
 	(group ""
 		(uuid "eb1fc745-df77-4549-b232-81f5f6df4a1d")
